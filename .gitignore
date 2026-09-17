@@ -1,0 +1,7 @@
+__pycache__
+venv
+.idea
+.DS_Store
+card_images
+pdfs
+*.jpg
