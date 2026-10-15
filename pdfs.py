@@ -1,9 +1,11 @@
 import json
+import os
 
 from fpdf import fpdf
+from PIL import Image
 import tqdm
 
-import download
+import shared
 
 
 MARGIN_LEFT = 10
@@ -11,9 +13,11 @@ MARGIN_TOP = 10
 CARD_WIDTH = 63
 CARD_HEIGHT = 88
 
+TMP_FILENAME = ".tmp.png"
+
 
 if __name__ == "__main__":
-    for set_id in download.MY_SETS:
+    for set_id in shared.MY_SETS:
         print(set_id)
 
         with open(f"set_json/{set_id}.json", "r") as fh:
@@ -36,7 +40,7 @@ if __name__ == "__main__":
                 printed_cards.append(card["id"])
 
         pdf = fpdf.FPDF(
-            orientation=fpdf.PageOrientation.PORTRAIT,
+            orientation="portrait",
             unit="mm",
             format="A4",
         )
@@ -48,7 +52,11 @@ if __name__ == "__main__":
             x = MARGIN_LEFT + CARD_WIDTH*(i%3)
             y = MARGIN_TOP + CARD_HEIGHT*((i%9)//3)
 
-            pdf.image(f"card_images/{card_id}.webp", x=x, y=y, w=CARD_WIDTH, h=CARD_HEIGHT)
+            img = Image.open(f"card_images/{card_id}.webp")
+            img.save(TMP_FILENAME)
+            pdf.image(TMP_FILENAME, x=x, y=y, w=CARD_WIDTH, h=CARD_HEIGHT)
+
+        os.unlink(TMP_FILENAME)
 
         pdf.output(f"pdfs/{set_id}.pdf")
 
