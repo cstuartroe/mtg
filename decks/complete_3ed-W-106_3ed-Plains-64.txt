@@ -1,0 +1,171 @@
+Deck
+1 Animate Wall (3ED) 1
+1 Armageddon (3ED) 2
+1 Balance (3ED) 3
+1 Benalish Hero (3ED) 4
+1 Benalish Hero (3ED) 4
+1 Benalish Hero (3ED) 4
+1 Benalish Hero (3ED) 4
+1 Black Ward (3ED) 5
+1 Black Ward (3ED) 5
+1 Blessing (3ED) 6
+1 Blue Ward (3ED) 7
+1 Blue Ward (3ED) 7
+1 Castle (3ED) 8
+1 Castle (3ED) 8
+1 Circle of Protection: Black (3ED) 9
+1 Circle of Protection: Black (3ED) 9
+1 Circle of Protection: Black (3ED) 9
+1 Circle of Protection: Black (3ED) 9
+1 Circle of Protection: Blue (3ED) 10
+1 Circle of Protection: Blue (3ED) 10
+1 Circle of Protection: Blue (3ED) 10
+1 Circle of Protection: Blue (3ED) 10
+1 Circle of Protection: Green (3ED) 11
+1 Circle of Protection: Green (3ED) 11
+1 Circle of Protection: Green (3ED) 11
+1 Circle of Protection: Green (3ED) 11
+1 Circle of Protection: Red (3ED) 12
+1 Circle of Protection: Red (3ED) 12
+1 Circle of Protection: Red (3ED) 12
+1 Circle of Protection: Red (3ED) 12
+1 Circle of Protection: White (3ED) 13
+1 Circle of Protection: White (3ED) 13
+1 Circle of Protection: White (3ED) 13
+1 Circle of Protection: White (3ED) 13
+1 Conversion (3ED) 14
+1 Conversion (3ED) 14
+1 Crusade (3ED) 15
+1 Death Ward (3ED) 16
+1 Death Ward (3ED) 16
+1 Death Ward (3ED) 16
+1 Death Ward (3ED) 16
+1 Disenchant (3ED) 17
+1 Disenchant (3ED) 17
+1 Disenchant (3ED) 17
+1 Disenchant (3ED) 17
+1 Eye for an Eye (3ED) 18
+1 Farmstead (3ED) 19
+1 Green Ward (3ED) 20
+1 Green Ward (3ED) 20
+1 Guardian Angel (3ED) 21
+1 Guardian Angel (3ED) 21
+1 Guardian Angel (3ED) 21
+1 Guardian Angel (3ED) 21
+1 Healing Salve (3ED) 22
+1 Healing Salve (3ED) 22
+1 Healing Salve (3ED) 22
+1 Healing Salve (3ED) 22
+1 Holy Armor (3ED) 23
+1 Holy Armor (3ED) 23
+1 Holy Armor (3ED) 23
+1 Holy Armor (3ED) 23
+1 Holy Strength (3ED) 24
+1 Holy Strength (3ED) 24
+1 Holy Strength (3ED) 24
+1 Holy Strength (3ED) 24
+1 Island Sanctuary (3ED) 25
+1 Karma (3ED) 26
+1 Karma (3ED) 26
+1 Lance (3ED) 27
+1 Lance (3ED) 27
+1 Mesa Pegasus (3ED) 28
+1 Mesa Pegasus (3ED) 28
+1 Mesa Pegasus (3ED) 28
+1 Mesa Pegasus (3ED) 28
+1 Northern Paladin (3ED) 29
+1 Pearled Unicorn (3ED) 30
+1 Pearled Unicorn (3ED) 30
+1 Pearled Unicorn (3ED) 30
+1 Pearled Unicorn (3ED) 30
+1 Personal Incarnation (3ED) 31
+1 Purelace (3ED) 32
+1 Red Ward (3ED) 33
+1 Red Ward (3ED) 33
+1 Resurrection (3ED) 34
+1 Resurrection (3ED) 34
+1 Reverse Damage (3ED) 35
+1 Reverse Polarity (3ED) 36
+1 Reverse Polarity (3ED) 36
+1 Righteousness (3ED) 37
+1 Samite Healer (3ED) 38
+1 Samite Healer (3ED) 38
+1 Samite Healer (3ED) 38
+1 Samite Healer (3ED) 38
+1 Savannah Lions (3ED) 39
+1 Serra Angel (3ED) 40
+1 Serra Angel (3ED) 40
+1 Swords to Plowshares (3ED) 41
+1 Swords to Plowshares (3ED) 41
+1 Veteran Bodyguard (3ED) 42
+1 Wall of Swords (3ED) 43
+1 Wall of Swords (3ED) 43
+1 White Knight (3ED) 44
+1 White Knight (3ED) 44
+1 White Ward (3ED) 45
+1 White Ward (3ED) 45
+1 Wrath of God (3ED) 46
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 292
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 293
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294
+1 Plains (3ED) 294

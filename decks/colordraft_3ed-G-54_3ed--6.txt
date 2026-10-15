@@ -1,0 +1,61 @@
+Deck
+1 Aspect of Wolf (3ED) 186
+1 Channel (3ED) 188
+1 Cockatrice (3ED) 189
+1 Craw Wurm (3ED) 190
+1 Craw Wurm (3ED) 190
+1 Crumble (3ED) 191
+1 Crumble (3ED) 191
+1 Desert Twister (3ED) 192
+1 Elvish Archers (3ED) 193
+1 Fog (3ED) 195
+1 Fog (3ED) 195
+1 Giant Growth (3ED) 199
+1 Giant Growth (3ED) 199
+1 Giant Spider (3ED) 200
+1 Grizzly Bears (3ED) 201
+1 Grizzly Bears (3ED) 201
+1 Instill Energy (3ED) 203
+1 Instill Energy (3ED) 203
+1 Ironroot Treefolk (3ED) 204
+1 Ironroot Treefolk (3ED) 204
+1 Ironroot Treefolk (3ED) 204
+1 Ironroot Treefolk (3ED) 204
+1 Ley Druid (3ED) 206
+1 Ley Druid (3ED) 206
+1 Lifeforce (3ED) 207
+1 Llanowar Elves (3ED) 211
+1 Lure (3ED) 212
+1 Regeneration (3ED) 213
+1 Regeneration (3ED) 213
+1 Regeneration (3ED) 213
+1 Regrowth (3ED) 214
+1 Regrowth (3ED) 214
+1 Scryb Sprites (3ED) 215
+1 Scryb Sprites (3ED) 215
+1 Scryb Sprites (3ED) 215
+1 Shanodin Dryads (3ED) 216
+1 Shanodin Dryads (3ED) 216
+1 Shanodin Dryads (3ED) 216
+1 Stream of Life (3ED) 217
+1 Timber Wolves (3ED) 219
+1 Tranquility (3ED) 221
+1 Tranquility (3ED) 221
+1 Tranquility (3ED) 221
+1 Tsunami (3ED) 222
+1 Verduran Enchantress (3ED) 223
+1 Wall of Wood (3ED) 226
+1 Wall of Wood (3ED) 226
+1 Wall of Wood (3ED) 226
+1 Wanderlust (3ED) 227
+1 War Mammoth (3ED) 228
+1 War Mammoth (3ED) 228
+1 Web (3ED) 229
+1 Wild Growth (3ED) 230
+1 Wild Growth (3ED) 230
+1 Black Vise (3ED) 236
+1 Celestial Prism (3ED) 239
+1 Crystal Rod (3ED) 242
+1 Disrupting Scepter (3ED) 245
+1 Mana Vault (3ED) 263
+1 Onulet (3ED) 269

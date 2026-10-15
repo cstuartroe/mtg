@@ -17,8 +17,8 @@ def scrape_gallery(set_id: str) -> list[Card]:
 
     for header in gallery_soup.find_all("h2", {"class": "card-grid-header"}):
         header_text = header.text.strip()
-        section_name = header_text.split(" •\n")[0]
-        if section_name != "In Boosters":
+        section_name = header_text.split(" •\n")[0].strip()
+        if section_name not in ["In Boosters", "Draft Cards"]:
             print(f"Skipping {repr(section_name)}")
             continue
 
@@ -97,8 +97,8 @@ def download_images(cards: list[Card]) -> None:
 if __name__ == "__main__":
     for set_id in MY_SETS:
         filepath = f"set_json/{set_id}.json"
-        # if os.path.exists(filepath):
-        #     continue
+        if os.path.exists(filepath):
+            continue
 
         print(set_id)
         cards = scrape_gallery(set_id)

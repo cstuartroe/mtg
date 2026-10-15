@@ -1,0 +1,57 @@
+Deck
+1 Air Elemental (3ED) 47
+1 Animate Artifact (3ED) 48
+1 Blue Elemental Blast (3ED) 49
+1 Braingeyser (3ED) 50
+1 Clone (3ED) 51
+1 Control Magic (3ED) 52
+1 Copy Artifact (3ED) 53
+1 Counterspell (3ED) 54
+1 Creature Bond (3ED) 55
+1 Drain Power (3ED) 56
+1 Energy Flux (3ED) 57
+1 Feedback (3ED) 58
+1 Flight (3ED) 59
+1 Hurkyl's Recall (3ED) 60
+1 Island Fish Jasconius (3ED) 61
+1 Jump (3ED) 62
+1 Lifetap (3ED) 63
+1 Lord of Atlantis (3ED) 64
+1 Magical Hack (3ED) 65
+1 Mahamoti Djinn (3ED) 66
+1 Mana Short (3ED) 67
+1 Merfolk of the Pearl Trident (3ED) 68
+1 Phantasmal Forces (3ED) 69
+1 Phantasmal Terrain (3ED) 70
+1 Phantom Monster (3ED) 71
+1 Pirate Ship (3ED) 72
+1 Power Leak (3ED) 73
+1 Power Sink (3ED) 74
+1 Prodigal Sorcerer (3ED) 75
+1 Psychic Venom (3ED) 76
+1 Reconstruction (3ED) 77
+1 Sea Serpent (3ED) 78
+1 Serendib Efreet (3ED) 79
+1 Siren's Call (3ED) 80
+1 Sleight of Mind (3ED) 81
+1 Spell Blast (3ED) 82
+1 Stasis (3ED) 83
+1 Steal Artifact (3ED) 84
+1 Thoughtlace (3ED) 85
+1 Unstable Mutation (3ED) 86
+1 Unsummon (3ED) 87
+1 Vesuvan Doppelganger (3ED) 88
+1 Volcanic Eruption (3ED) 89
+1 Wall of Air (3ED) 90
+1 Wall of Water (3ED) 91
+1 Water Elemental (3ED) 92
+1 Crystal Rod (3ED) 242
+1 Library of Leng (3ED) 261
+1 Living Wall (3ED) 262
+1 Mana Vault (3ED) 263
+1 Meekstone (3ED) 264
+1 Millstone (3ED) 265
+1 Mishra's War Machine (3ED) 266
+1 Nevinyrral's Disk (3ED) 267
+1 Obsianus Golem (3ED) 268
+1 Onulet (3ED) 269

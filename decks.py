@@ -35,6 +35,7 @@ COLOR_SNOW_LANDS = {
 MONOCOLOR_SETS = [
     "leb",
     "arn",
+    "3ed",
     "drk",
     "mir",
     "vis",
@@ -710,6 +711,67 @@ def wither_me_worries():
     print_release_stats(deck)
     print_creature_stats(deck)
 
+rev_artifacts_with_relevant_colors = {
+    # "Black Mana Battery": "B",
+    # "Blue Mana Battery": "U",
+    # "Green Mana Battery": "G",
+    # "Red Mana Battery": "R",
+    # "White Mana Battery": "W",
+
+    "Crystal Rod": "U",
+    "Iron Star": "R",
+    "Ivory Cup": "W",
+    "Throne of Bone": "B",
+    "Wooden Sphere": "G",
+
+    "Kormus Bell": "B",
+}
+
+rev_skips = [
+    "Sunglasses of Urza",
+]
+
+def revised_color_decks():
+    decks: dict[str, list[Card]] = {
+        color: []
+        for color in COLOR_LANDS.keys()
+    }
+
+    rev_cards = load_set("3ed")
+    colorless_cards = []
+
+    for card in rev_cards:
+        if card.color == "L":
+            continue
+
+        elif card.color in decks:
+            decks[card.color].append(card)
+
+        elif card.title in rev_artifacts_with_relevant_colors:
+            decks[rev_artifacts_with_relevant_colors[card.title]].append(card)
+
+        elif card.title in rev_skips:
+            continue
+
+        else:
+            colorless_cards.append(card)
+
+    deck_size = 56
+    colorless_cards_used = 0
+
+    for color, deck in decks.items():
+        to_add = deck_size - len(deck)
+        deck.extend(colorless_cards[colorless_cards_used:colorless_cards_used + to_add])
+        colorless_cards_used += to_add
+
+    assert colorless_cards_used == len(colorless_cards)
+
+    for color, deck in decks.items():
+        title = "manual/3ed_mono_" + color
+        assert len(deck) == deck_size
+        deck_to_txt(title, deck)
+        deck_to_image(title, deck)
+
 
 if __name__ == "__main__":
     for file in os.listdir(path="decks"):
@@ -724,3 +786,4 @@ if __name__ == "__main__":
     # oneoff_lrwshm_ru_aggro()
     oneoff_lrwshm_u_drawing()
     wither_me_worries()
+    revised_color_decks()

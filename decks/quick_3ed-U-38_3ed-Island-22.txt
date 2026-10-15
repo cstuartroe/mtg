@@ -1,0 +1,61 @@
+Deck
+1 Blue Elemental Blast (3ED) 49
+1 Clone (3ED) 51
+1 Clone (3ED) 51
+1 Control Magic (3ED) 52
+1 Copy Artifact (3ED) 53
+1 Counterspell (3ED) 54
+1 Creature Bond (3ED) 55
+1 Feedback (3ED) 58
+1 Flight (3ED) 59
+1 Island Fish Jasconius (3ED) 61
+1 Jump (3ED) 62
+1 Lifetap (3ED) 63
+1 Lord of Atlantis (3ED) 64
+1 Magical Hack (3ED) 65
+1 Mahamoti Djinn (3ED) 66
+1 Merfolk of the Pearl Trident (3ED) 68
+1 Merfolk of the Pearl Trident (3ED) 68
+1 Phantasmal Forces (3ED) 69
+1 Power Leak (3ED) 73
+1 Power Leak (3ED) 73
+1 Power Leak (3ED) 73
+1 Power Sink (3ED) 74
+1 Power Sink (3ED) 74
+1 Prodigal Sorcerer (3ED) 75
+1 Prodigal Sorcerer (3ED) 75
+1 Psychic Venom (3ED) 76
+1 Psychic Venom (3ED) 76
+1 Reconstruction (3ED) 77
+1 Sea Serpent (3ED) 78
+1 Siren's Call (3ED) 80
+1 Spell Blast (3ED) 82
+1 Spell Blast (3ED) 82
+1 Spell Blast (3ED) 82
+1 Unstable Mutation (3ED) 86
+1 Unsummon (3ED) 87
+1 Vesuvan Doppelganger (3ED) 88
+1 Wall of Air (3ED) 90
+1 Wall of Air (3ED) 90
+1 Island (3ED) 295
+1 Island (3ED) 295
+1 Island (3ED) 295
+1 Island (3ED) 295
+1 Island (3ED) 295
+1 Island (3ED) 295
+1 Island (3ED) 295
+1 Island (3ED) 296
+1 Island (3ED) 296
+1 Island (3ED) 296
+1 Island (3ED) 296
+1 Island (3ED) 296
+1 Island (3ED) 296
+1 Island (3ED) 296
+1 Island (3ED) 297
+1 Island (3ED) 297
+1 Island (3ED) 297
+1 Island (3ED) 297
+1 Island (3ED) 297
+1 Island (3ED) 297
+1 Island (3ED) 297
+1 Island (3ED) 297

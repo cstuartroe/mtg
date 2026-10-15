@@ -1,0 +1,61 @@
+Deck
+1 Burrowing (3ED) 140
+1 Disintegrate (3ED) 142
+1 Disintegrate (3ED) 142
+1 Dragon Whelp (3ED) 143
+1 Dwarven Warriors (3ED) 144
+1 Dwarven Warriors (3ED) 144
+1 Dwarven Weaponsmith (3ED) 145
+1 Earthbind (3ED) 147
+1 Fire Elemental (3ED) 149
+1 Fireball (3ED) 150
+1 Fireball (3ED) 150
+1 Flashfires (3ED) 152
+1 Flashfires (3ED) 152
+1 Fork (3ED) 153
+1 Goblin Balloon Brigade (3ED) 154
+1 Gray Ogre (3ED) 157
+1 Gray Ogre (3ED) 157
+1 Hurloon Minotaur (3ED) 159
+1 Keldon Warlord (3ED) 160
+1 Keldon Warlord (3ED) 160
+1 Kird Ape (3ED) 161
+1 Lightning Bolt (3ED) 162
+1 Lightning Bolt (3ED) 162
+1 Lightning Bolt (3ED) 162
+1 Mana Flare (3ED) 164
+1 Mijae Djinn (3ED) 166
+1 Mons's Goblin Raiders (3ED) 167
+1 Orcish Artillery (3ED) 168
+1 Power Surge (3ED) 170
+1 Red Elemental Blast (3ED) 171
+1 Shatter (3ED) 175
+1 Shatter (3ED) 175
+1 Stone Giant (3ED) 179
+1 Stone Rain (3ED) 180
+1 Tunnel (3ED) 181
+1 Tunnel (3ED) 181
+1 Uthden Troll (3ED) 182
+1 Wall of Fire (3ED) 183
+1 Mountain (3ED) 301
+1 Mountain (3ED) 301
+1 Mountain (3ED) 301
+1 Mountain (3ED) 301
+1 Mountain (3ED) 301
+1 Mountain (3ED) 301
+1 Mountain (3ED) 301
+1 Mountain (3ED) 301
+1 Mountain (3ED) 302
+1 Mountain (3ED) 302
+1 Mountain (3ED) 302
+1 Mountain (3ED) 302
+1 Mountain (3ED) 302
+1 Mountain (3ED) 302
+1 Mountain (3ED) 302
+1 Mountain (3ED) 303
+1 Mountain (3ED) 303
+1 Mountain (3ED) 303
+1 Mountain (3ED) 303
+1 Mountain (3ED) 303
+1 Mountain (3ED) 303
+1 Mountain (3ED) 303

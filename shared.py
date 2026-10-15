@@ -6,6 +6,7 @@ import functools
 MY_SETS = [
     "leb",
     "arn",
+    "3ed",
     "atq",
     "leg",
     "drk",
@@ -90,6 +91,8 @@ MY_SETS = [
     "rtr",
     "gtc",
     "dgm",
+
+    "msh",
 ]
 
 
@@ -151,7 +154,7 @@ class Card:
     order: int
     scryfall_uri: str
     img_uri: str
-    cost: list[str] = None
+    cost: list[str] | None = None
     rarity: str = None
     card_type: str = None
 
