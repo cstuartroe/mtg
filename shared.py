@@ -92,6 +92,7 @@ MY_SETS = [
     "gtc",
     "dgm",
 
+    "one",
     "msh",
 ]
 
@@ -143,6 +144,10 @@ COSTS: dict[str, tuple[list[str], float]] = {
     "BG": (["B", "G"], 1),
     "RW": (["R", "W"], 1),
     "GU": (["G", "U"], 1),
+
+    "RGP": (["R", "G"], 1),
+
+    "RWP": (["R", "W"], 1),
 }
 
 
