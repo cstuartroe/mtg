@@ -12,7 +12,8 @@
       "5",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 41
   },
   {
     "id": "16c5dfed-4dee-4e48-a445-89f03d7794e6",
@@ -28,7 +29,8 @@
       "W",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 1107
   },
   {
     "id": "7a437999-26ae-49fa-8647-c8c2b4640702",
@@ -43,7 +45,8 @@
       "2",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 17
   },
   {
     "id": "d7b2450d-87a7-46dc-b43a-2db2abeca44f",
@@ -57,7 +60,8 @@
     "cost": [
       "1",
       "W"
-    ]
+    ],
+    "usd_cents": 15
   },
   {
     "id": "3741b2a7-7bda-481a-b8f8-9b04c96035b0",
@@ -72,7 +76,8 @@
       "5",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 9
   },
   {
     "id": "ba149706-cd17-4da6-8403-ccfe2d6cb437",
@@ -88,7 +93,8 @@
       "W",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 4637
   },
   {
     "id": "238d8437-1abd-4bb7-8b5b-54f959bc2c79",
@@ -102,7 +108,8 @@
     "cost": [
       "5",
       "W"
-    ]
+    ],
+    "usd_cents": 18
   },
   {
     "id": "2ad27af1-b482-40d5-9dbb-11201ffa0410",
@@ -116,7 +123,8 @@
     "cost": [
       "3",
       "W"
-    ]
+    ],
+    "usd_cents": 26
   },
   {
     "id": "ce4a3e80-6e95-4346-8ab8-eecc1a09ca24",
@@ -130,7 +138,8 @@
     "cost": [
       "1",
       "W"
-    ]
+    ],
+    "usd_cents": 22
   },
   {
     "id": "78154978-9e7d-44e9-a03f-c578072a8ff7",
@@ -145,7 +154,8 @@
       "3",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 909
   },
   {
     "id": "76cac47a-9e83-4039-8d80-fa9bdadb7527",
@@ -158,7 +168,8 @@
     "card_type": "Creature \u2014 Human Cleric",
     "cost": [
       "W"
-    ]
+    ],
+    "usd_cents": 12
   },
   {
     "id": "35b06c8f-5f08-43bd-a548-2a98ba30fd41",
@@ -171,7 +182,8 @@
     "card_type": "Instant",
     "cost": [
       "W"
-    ]
+    ],
+    "usd_cents": 218
   },
   {
     "id": "08ef4383-11e7-4426-a04a-058570f46e47",
@@ -185,7 +197,8 @@
     "cost": [
       "4",
       "W"
-    ]
+    ],
+    "usd_cents": 33
   },
   {
     "id": "c71a0883-316c-4870-a029-25f16952fbc0",
@@ -199,7 +212,8 @@
     "cost": [
       "1",
       "W"
-    ]
+    ],
+    "usd_cents": 19
   },
   {
     "id": "f12fee0b-c237-4188-a718-1572f72c63ba",
@@ -213,7 +227,8 @@
     "cost": [
       "1",
       "W"
-    ]
+    ],
+    "usd_cents": 16
   },
   {
     "id": "028028d7-80ff-4d63-8b84-795f257a3456",
@@ -228,7 +243,8 @@
       "3",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 38
   },
   {
     "id": "84ceb7f1-14b7-4102-ade2-fbeb835d3804",
@@ -242,7 +258,8 @@
     "cost": [
       "2",
       "W"
-    ]
+    ],
+    "usd_cents": 22
   },
   {
     "id": "ec06e42f-e294-44ef-8fa8-1d1a4c2090d8",
@@ -256,7 +273,8 @@
     "cost": [
       "X",
       "W"
-    ]
+    ],
+    "usd_cents": 23
   },
   {
     "id": "7a4bc00e-28ca-4152-b832-f36425d2b615",
@@ -271,7 +289,8 @@
       "1",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 28
   },
   {
     "id": "31292616-70e6-4d19-a883-e63ad860f50c",
@@ -288,7 +307,8 @@
       "W",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 92
   },
   {
     "id": "489c6a2f-38b4-4ff9-95f7-431384480ed9",
@@ -302,7 +322,8 @@
     "cost": [
       "2",
       "W"
-    ]
+    ],
+    "usd_cents": 6
   },
   {
     "id": "c6ebec82-9d4a-4e78-b923-37c3a52133e7",
@@ -316,7 +337,8 @@
     "cost": [
       "3",
       "W"
-    ]
+    ],
+    "usd_cents": 29
   },
   {
     "id": "df5656e3-5f53-41f8-9f24-04caad5e4ca3",
@@ -331,7 +353,8 @@
       "4",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 19
   },
   {
     "id": "77e92bbb-c22d-4879-9437-b87a3ff70a2d",
@@ -346,7 +369,8 @@
       "3",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 326
   },
   {
     "id": "640cad49-1db3-4611-a80d-7ce95f000fad",
@@ -360,7 +384,8 @@
     "cost": [
       "3",
       "W"
-    ]
+    ],
+    "usd_cents": 7
   },
   {
     "id": "7ba52aed-440c-4b32-8f25-0c5364441712",
@@ -374,7 +399,8 @@
     "cost": [
       "2",
       "W"
-    ]
+    ],
+    "usd_cents": 3
   },
   {
     "id": "2371bd0c-ca38-4a62-b525-bef4d1ca0646",
@@ -387,7 +413,8 @@
     "card_type": "Creature \u2014 Human Soldier",
     "cost": [
       "W"
-    ]
+    ],
+    "usd_cents": 4
   },
   {
     "id": "d4f6214f-90cb-4575-b221-3c8d0ed65ffe",
@@ -401,7 +428,8 @@
     "cost": [
       "3",
       "W"
-    ]
+    ],
+    "usd_cents": 3
   },
   {
     "id": "4cf4c4cf-df35-4725-81ca-d62b70b8d0dd",
@@ -415,7 +443,8 @@
     "cost": [
       "2",
       "W"
-    ]
+    ],
+    "usd_cents": 4
   },
   {
     "id": "581dbbea-9995-4e4b-ba5c-d6d5597e4ace",
@@ -429,7 +458,8 @@
     "cost": [
       "1",
       "W"
-    ]
+    ],
+    "usd_cents": 2
   },
   {
     "id": "d81d6fe0-c7c2-46a6-811c-f121284937ea",
@@ -443,7 +473,8 @@
     "cost": [
       "1",
       "W"
-    ]
+    ],
+    "usd_cents": 17
   },
   {
     "id": "c2ad8639-e586-47f4-baca-2a1af5aa281b",
@@ -457,7 +488,8 @@
     "cost": [
       "3",
       "W"
-    ]
+    ],
+    "usd_cents": 49
   },
   {
     "id": "bcc1647b-9271-4426-9938-7eb620ad0769",
@@ -472,7 +504,8 @@
       "2",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 34
   },
   {
     "id": "9b640fdc-7a19-475e-858f-e159f61e154e",
@@ -485,7 +518,8 @@
     "card_type": "Instant",
     "cost": [
       "W"
-    ]
+    ],
+    "usd_cents": 5
   },
   {
     "id": "5da345bd-8f2b-4966-97f5-c0e4c6cfe3b7",
@@ -500,7 +534,8 @@
       "2",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 20
   },
   {
     "id": "16298ca0-80d4-4299-a550-500b7ef6ac67",
@@ -515,7 +550,8 @@
       "1",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 64
   },
   {
     "id": "f774e0eb-5c05-4a9e-8ab7-9ee4c7741591",
@@ -529,7 +565,8 @@
     "cost": [
       "4",
       "W"
-    ]
+    ],
+    "usd_cents": 14
   },
   {
     "id": "0982ea7e-05a4-4e40-98ab-ea9aa6c7342e",
@@ -544,7 +581,8 @@
       "4",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 75
   },
   {
     "id": "20558f69-9240-49b9-9695-caf75ee2db1b",
@@ -558,7 +596,8 @@
     "cost": [
       "1",
       "W"
-    ]
+    ],
+    "usd_cents": 4
   },
   {
     "id": "b785276b-3778-49f3-b46f-a1f3d91db097",
@@ -573,7 +612,8 @@
       "4",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 11
   },
   {
     "id": "ae8a01fb-dd47-44de-b528-8b7ca4b3388b",
@@ -587,7 +627,8 @@
     "cost": [
       "1",
       "W"
-    ]
+    ],
+    "usd_cents": 14
   },
   {
     "id": "31abba67-1241-4fb3-88b5-4c4668ec5f25",
@@ -601,7 +642,8 @@
     "cost": [
       "1",
       "U"
-    ]
+    ],
+    "usd_cents": 10
   },
   {
     "id": "f5b48d60-fc99-4d21-9293-4f7ce1c02928",
@@ -615,7 +657,8 @@
     "cost": [
       "3",
       "U"
-    ]
+    ],
+    "usd_cents": 8
   },
   {
     "id": "32355574-34ed-4427-86d9-72295d32ac4f",
@@ -629,7 +672,8 @@
     "cost": [
       "4",
       "U"
-    ]
+    ],
+    "usd_cents": 35
   },
   {
     "id": "c43aa68e-a182-4006-b4d6-b4fc67e68583",
@@ -643,7 +687,8 @@
     "cost": [
       "2",
       "U"
-    ]
+    ],
+    "usd_cents": 23
   },
   {
     "id": "79791bd9-aded-48d9-866d-9f7bd6848905",
@@ -657,7 +702,8 @@
     "cost": [
       "2",
       "U"
-    ]
+    ],
+    "usd_cents": 4
   },
   {
     "id": "fa94262b-f740-48fb-a937-75776864c9ee",
@@ -672,7 +718,8 @@
       "4",
       "U",
       "U"
-    ]
+    ],
+    "usd_cents": 291
   },
   {
     "id": "23b62be6-1a80-4f16-a94a-374203052662",
@@ -687,7 +734,8 @@
       "3",
       "U",
       "U"
-    ]
+    ],
+    "usd_cents": 33
   },
   {
     "id": "88245a41-d4d5-46bf-969f-48d4dd540e2c",
@@ -701,7 +749,8 @@
     "cost": [
       "3",
       "U"
-    ]
+    ],
+    "usd_cents": 8
   },
   {
     "id": "e7d376ef-c900-4abb-9a0b-5eb9369f5739",
@@ -715,7 +764,8 @@
     "cost": [
       "3",
       "U"
-    ]
+    ],
+    "usd_cents": 16
   },
   {
     "id": "4cbd57f1-9883-40a4-9b52-1649cee83815",
@@ -729,7 +779,8 @@
     "cost": [
       "1",
       "U"
-    ]
+    ],
+    "usd_cents": 52
   },
   {
     "id": "8e89ef0e-1bfe-4e12-90ee-38f993cd8110",
@@ -743,7 +794,8 @@
     "cost": [
       "2",
       "U"
-    ]
+    ],
+    "usd_cents": 4
   },
   {
     "id": "1ba49d16-e3e4-470a-8ca2-a93a5b358f6e",
@@ -756,7 +808,8 @@
     "card_type": "Instant",
     "cost": [
       "U"
-    ]
+    ],
+    "usd_cents": 14
   },
   {
     "id": "b0e24d65-0e6f-4978-8de1-c5e4acac12fb",
@@ -770,7 +823,8 @@
     "cost": [
       "2",
       "U"
-    ]
+    ],
+    "usd_cents": 16
   },
   {
     "id": "b6dac5db-ef96-4bd5-aabc-e5ae2b95c8c3",
@@ -785,7 +839,8 @@
       "2",
       "U",
       "U"
-    ]
+    ],
+    "usd_cents": 14
   },
   {
     "id": "1f6a20ba-6691-4844-9685-dfcd4184224e",
@@ -799,7 +854,8 @@
     "cost": [
       "1",
       "U"
-    ]
+    ],
+    "usd_cents": 9
   },
   {
     "id": "f0a44373-0c50-4e14-a7c6-0de66796b81e",
@@ -813,7 +869,8 @@
     "cost": [
       "2",
       "U"
-    ]
+    ],
+    "usd_cents": 198
   },
   {
     "id": "3ebae54a-47e0-4e82-8a29-b5d9354a748b",
@@ -827,7 +884,8 @@
     "cost": [
       "1",
       "U"
-    ]
+    ],
+    "usd_cents": 24
   },
   {
     "id": "b7238136-c8de-4949-9b54-ff75094e0569",
@@ -841,7 +899,8 @@
     "cost": [
       "4",
       "U"
-    ]
+    ],
+    "usd_cents": 7
   },
   {
     "id": "4c7ff97f-fb06-4a61-98cd-50965a6522d4",
@@ -855,7 +914,8 @@
     "cost": [
       "5",
       "U"
-    ]
+    ],
+    "usd_cents": 11
   },
   {
     "id": "42506c54-e9bf-4d0f-8dd5-8b218668c925",
@@ -869,7 +929,8 @@
     "cost": [
       "5",
       "U"
-    ]
+    ],
+    "usd_cents": 26
   },
   {
     "id": "5ddd1050-8abd-4dfe-9e52-5b56af358653",
@@ -883,7 +944,8 @@
     "cost": [
       "3",
       "U"
-    ]
+    ],
+    "usd_cents": 14
   },
   {
     "id": "3e4e7589-9cee-4d57-8648-ce733781bfb2",
@@ -898,7 +960,8 @@
       "1",
       "U",
       "U"
-    ]
+    ],
+    "usd_cents": 11
   },
   {
     "id": "2e12186e-9c93-4136-9ea3-e8d2ae1ee2e5",
@@ -913,7 +976,8 @@
       "3",
       "U",
       "U"
-    ]
+    ],
+    "usd_cents": 24
   },
   {
     "id": "f346d236-528c-4164-9995-74cdc56597a9",
@@ -928,7 +992,8 @@
       "2",
       "U",
       "U"
-    ]
+    ],
+    "usd_cents": 22
   },
   {
     "id": "dfe9ae51-fd2b-45ca-a780-725f51f897b2",
@@ -942,7 +1007,8 @@
     "cost": [
       "2",
       "U"
-    ]
+    ],
+    "usd_cents": 53
   },
   {
     "id": "0d98f0c4-021a-407a-8b0c-5500d804f959",
@@ -957,7 +1023,8 @@
       "2",
       "U",
       "U"
-    ]
+    ],
+    "usd_cents": 5
   },
   {
     "id": "2db4fe28-e580-479b-910f-b719d69468b1",
@@ -972,7 +1039,8 @@
       "2",
       "U",
       "U"
-    ]
+    ],
+    "usd_cents": 248
   },
   {
     "id": "1a531b2f-2a9e-4cc9-aea6-9dce239f5511",
@@ -985,7 +1053,8 @@
     "card_type": "Creature \u2014 Human Rogue",
     "cost": [
       "U"
-    ]
+    ],
+    "usd_cents": 16
   },
   {
     "id": "429f7cf0-579a-4003-b5cf-4baf5d420796",
@@ -998,7 +1067,8 @@
     "card_type": "Instant",
     "cost": [
       "U"
-    ]
+    ],
+    "usd_cents": 5
   },
   {
     "id": "7f41285b-5961-4653-96a0-fb6d27111390",
@@ -1012,7 +1082,8 @@
     "cost": [
       "1",
       "U"
-    ]
+    ],
+    "usd_cents": 10
   },
   {
     "id": "f13b5ba6-0de1-4f5c-867b-57e2c10bde8e",
@@ -1026,7 +1097,8 @@
     "cost": [
       "4",
       "U"
-    ]
+    ],
+    "usd_cents": 5
   },
   {
     "id": "c9f03bae-1d23-43ea-9079-4b09d61bbadd",
@@ -1040,7 +1112,8 @@
     "cost": [
       "2",
       "U"
-    ]
+    ],
+    "usd_cents": 9
   },
   {
     "id": "0d22d093-8e89-4d54-ac04-14c8759de3ea",
@@ -1054,7 +1127,8 @@
     "cost": [
       "1",
       "U"
-    ]
+    ],
+    "usd_cents": 13
   },
   {
     "id": "89d141bc-7307-40c2-a7ed-427caaec5efc",
@@ -1068,7 +1142,8 @@
     "cost": [
       "1",
       "U"
-    ]
+    ],
+    "usd_cents": 4
   },
   {
     "id": "d8823bdc-0467-47f1-9bef-a281b4a7071d",
@@ -1083,7 +1158,8 @@
       "5",
       "U",
       "U"
-    ]
+    ],
+    "usd_cents": 15
   },
   {
     "id": "ffe4d34f-68f0-4d79-9aab-58c5304224d9",
@@ -1097,7 +1173,8 @@
     "cost": [
       "3",
       "U"
-    ]
+    ],
+    "usd_cents": 6
   },
   {
     "id": "53203dfc-5ad5-4c17-9802-ca2f874d327a",
@@ -1111,7 +1188,8 @@
     "cost": [
       "3",
       "U"
-    ]
+    ],
+    "usd_cents": 32
   },
   {
     "id": "b9398926-13b9-47b8-b66b-1ab9d06bb704",
@@ -1126,7 +1204,8 @@
       "3",
       "U",
       "U"
-    ]
+    ],
+    "usd_cents": 597
   },
   {
     "id": "83564e67-2677-4955-a3b9-3b221dbb100b",
@@ -1140,7 +1219,8 @@
     "cost": [
       "2",
       "U"
-    ]
+    ],
+    "usd_cents": 136
   },
   {
     "id": "266e5267-2288-4bb0-8c54-0c556521cec3",
@@ -1155,7 +1235,8 @@
       "5",
       "U",
       "U"
-    ]
+    ],
+    "usd_cents": 489
   },
   {
     "id": "dece40c1-790c-4471-a790-1d356b345603",
@@ -1169,7 +1250,8 @@
     "cost": [
       "4",
       "U"
-    ]
+    ],
+    "usd_cents": 18
   },
   {
     "id": "04a3059f-92f2-4163-b79a-154118a4e36d",
@@ -1182,7 +1264,8 @@
     "card_type": "Creature \u2014 Human Wizard",
     "cost": [
       "U"
-    ]
+    ],
+    "usd_cents": 28
   },
   {
     "id": "062ee892-cce7-42bd-97c7-032cec61faca",
@@ -1195,7 +1278,8 @@
     "card_type": "Sorcery",
     "cost": [
       "B"
-    ]
+    ],
+    "usd_cents": 9
   },
   {
     "id": "39b4fab6-73ce-4a56-a305-4d2e93dbb4ee",
@@ -1210,7 +1294,8 @@
       "2",
       "B",
       "B"
-    ]
+    ],
+    "usd_cents": 31
   },
   {
     "id": "2e1fb442-68ff-4249-8e44-87edf6fae211",
@@ -1224,7 +1309,8 @@
     "cost": [
       "1",
       "B"
-    ]
+    ],
+    "usd_cents": 259
   },
   {
     "id": "97485dbf-2f31-4ed2-a6cd-529ca22c9ac5",
@@ -1238,7 +1324,8 @@
     "cost": [
       "2",
       "B"
-    ]
+    ],
+    "usd_cents": 10
   },
   {
     "id": "387eda28-f35b-48b0-ba59-773d82902327",
@@ -1251,7 +1338,8 @@
     "card_type": "Sorcery",
     "cost": [
       "B"
-    ]
+    ],
+    "usd_cents": 20
   },
   {
     "id": "44a91e62-e946-4101-8cef-d1c147caebf2",
@@ -1265,7 +1353,8 @@
     "cost": [
       "1",
       "B"
-    ]
+    ],
+    "usd_cents": 33
   },
   {
     "id": "df3eed10-7a8f-4c89-8be8-389f979e10b7",
@@ -1279,7 +1368,8 @@
     "cost": [
       "3",
       "B"
-    ]
+    ],
+    "usd_cents": 11
   },
   {
     "id": "0382cb94-0836-4e23-99b7-034faa363203",
@@ -1293,7 +1383,8 @@
     "cost": [
       "1",
       "B"
-    ]
+    ],
+    "usd_cents": 13
   },
   {
     "id": "8f5e8815-cda8-407d-847c-968b72c061e8",
@@ -1307,7 +1398,8 @@
     "cost": [
       "2",
       "B"
-    ]
+    ],
+    "usd_cents": 38
   },
   {
     "id": "462a0961-cca5-4d63-867f-7426dbef8639",
@@ -1321,7 +1413,8 @@
     "cost": [
       "X",
       "B"
-    ]
+    ],
+    "usd_cents": 13
   },
   {
     "id": "a2136a82-b535-47f6-9eee-5b7585ac5cf1",
@@ -1336,7 +1429,8 @@
       "3",
       "B",
       "B"
-    ]
+    ],
+    "usd_cents": 24
   },
   {
     "id": "fb5d6266-30a7-4360-84bc-22b52fb782b3",
@@ -1350,7 +1444,8 @@
     "cost": [
       "2",
       "B"
-    ]
+    ],
+    "usd_cents": 22
   },
   {
     "id": "785da9a3-09af-45aa-bc04-4ab69cfb2ba4",
@@ -1365,7 +1460,8 @@
       "2",
       "B",
       "B"
-    ]
+    ],
+    "usd_cents": 28
   },
   {
     "id": "fa016bb7-ad8b-40d5-90db-412a9cf19e4e",
@@ -1380,7 +1476,8 @@
       "3",
       "B",
       "B"
-    ]
+    ],
+    "usd_cents": 37
   },
   {
     "id": "3d8a3abd-a4a2-48e6-b709-1c0240a76c5e",
@@ -1395,7 +1492,8 @@
       "3",
       "B",
       "B"
-    ]
+    ],
+    "usd_cents": 28
   },
   {
     "id": "56113cde-4210-46be-bd53-8966c36ef2a3",
@@ -1409,7 +1507,8 @@
     "cost": [
       "3",
       "B"
-    ]
+    ],
+    "usd_cents": 11
   },
   {
     "id": "7c3fac03-a019-4faa-bc1c-09e3a394fff7",
@@ -1423,7 +1522,8 @@
     "cost": [
       "2",
       "B"
-    ]
+    ],
+    "usd_cents": 32
   },
   {
     "id": "1091fadf-97c4-4f87-8466-6a1246a72226",
@@ -1437,7 +1537,8 @@
     "cost": [
       "3",
       "B"
-    ]
+    ],
+    "usd_cents": 13
   },
   {
     "id": "4cd54279-57f5-4cd9-b524-4f094bd2fc36",
@@ -1451,7 +1552,8 @@
     "cost": [
       "4",
       "B"
-    ]
+    ],
+    "usd_cents": 4353
   },
   {
     "id": "2eed3d1b-3142-437c-99e9-85ba76e23e6d",
@@ -1464,7 +1566,8 @@
     "card_type": "Enchantment \u2014 Aura",
     "cost": [
       "B"
-    ]
+    ],
+    "usd_cents": 6
   },
   {
     "id": "1b00c711-007d-4c85-9dd9-dd9d52f1649d",
@@ -1478,7 +1581,8 @@
     "cost": [
       "1",
       "B"
-    ]
+    ],
+    "usd_cents": 21
   },
   {
     "id": "14f420c4-801b-48e7-a10b-de44a2417265",
@@ -1493,7 +1597,8 @@
       "4",
       "B",
       "B"
-    ]
+    ],
+    "usd_cents": 10
   },
   {
     "id": "b51666ae-2aef-4cb1-9cd4-44aec81530f8",
@@ -1510,7 +1615,8 @@
       "B",
       "B",
       "B"
-    ]
+    ],
+    "usd_cents": 883
   },
   {
     "id": "505c0d25-dc1f-402e-9183-01c273efe0e1",
@@ -1525,7 +1631,8 @@
       "4",
       "B",
       "B"
-    ]
+    ],
+    "usd_cents": 107
   },
   {
     "id": "022960a1-8223-4b83-aea2-85359c39f3b8",
@@ -1539,7 +1646,8 @@
     "cost": [
       "4",
       "B"
-    ]
+    ],
+    "usd_cents": 7
   },
   {
     "id": "1d1de712-86ac-4c03-be86-2403cd121f66",
@@ -1552,7 +1660,8 @@
     "card_type": "Instant",
     "cost": [
       "B"
-    ]
+    ],
+    "usd_cents": 12
   },
   {
     "id": "bb443cf7-70bd-4df7-b446-107e099c19e3",
@@ -1565,7 +1674,8 @@
     "card_type": "Creature \u2014 Zombie",
     "cost": [
       "B"
-    ]
+    ],
+    "usd_cents": 3
   },
   {
     "id": "33de2371-175e-4f8a-9636-35f996e3cf24",
@@ -1579,7 +1689,8 @@
     "cost": [
       "X",
       "B"
-    ]
+    ],
+    "usd_cents": 54
   },
   {
     "id": "c63dd203-bce9-4ab7-8a0c-059d19d384e9",
@@ -1593,7 +1704,8 @@
     "cost": [
       "5",
       "B"
-    ]
+    ],
+    "usd_cents": 13
   },
   {
     "id": "38dcbad0-267e-411f-8e99-5d90b537bf9b",
@@ -1607,7 +1719,8 @@
     "cost": [
       "4",
       "B"
-    ]
+    ],
+    "usd_cents": 6
   },
   {
     "id": "4f8a1d51-aa7f-41fd-b97d-56bc48221615",
@@ -1621,7 +1734,8 @@
     "cost": [
       "3",
       "B"
-    ]
+    ],
+    "usd_cents": 9
   },
   {
     "id": "52e59918-cf12-4d73-a4e0-31f38e792dc4",
@@ -1635,7 +1749,8 @@
     "cost": [
       "2",
       "B"
-    ]
+    ],
+    "usd_cents": 5
   },
   {
     "id": "036c1954-37d3-4787-8df8-f2d0dd39058a",
@@ -1649,7 +1764,8 @@
     "cost": [
       "4",
       "B"
-    ]
+    ],
+    "usd_cents": 6
   },
   {
     "id": "88810a96-d5f8-4030-93f1-e2ad0d480317",
@@ -1662,7 +1778,8 @@
     "card_type": "Enchantment \u2014 Aura",
     "cost": [
       "B"
-    ]
+    ],
+    "usd_cents": 17
   },
   {
     "id": "395696f8-9be2-4925-852f-b783850e1ca2",
@@ -1677,7 +1794,8 @@
       "3",
       "B",
       "B"
-    ]
+    ],
+    "usd_cents": 9
   },
   {
     "id": "b0dc1a94-0193-464e-a481-730b34b57db5",
@@ -1691,7 +1809,8 @@
     "cost": [
       "2",
       "B"
-    ]
+    ],
+    "usd_cents": 11
   },
   {
     "id": "dce1b1d3-9602-42bf-b341-d96976ff1e60",
@@ -1706,7 +1825,8 @@
       "1",
       "B",
       "B"
-    ]
+    ],
+    "usd_cents": 8
   },
   {
     "id": "eec7dfd7-d7b2-44fa-b351-022a19fe81b8",
@@ -1720,7 +1840,8 @@
     "cost": [
       "B",
       "B"
-    ]
+    ],
+    "usd_cents": 32
   },
   {
     "id": "906618e2-2638-4017-9d6e-e6f282967a81",
@@ -1734,7 +1855,8 @@
     "cost": [
       "2",
       "B"
-    ]
+    ],
+    "usd_cents": 16
   },
   {
     "id": "8d330058-16af-4486-aa89-b6be759e35d4",
@@ -1748,7 +1870,8 @@
     "cost": [
       "3",
       "B"
-    ]
+    ],
+    "usd_cents": 5
   },
   {
     "id": "b26d73e6-9138-43b2-8031-6e3b25fa33f9",
@@ -1762,7 +1885,8 @@
     "cost": [
       "2",
       "B"
-    ]
+    ],
+    "usd_cents": 10
   },
   {
     "id": "999f40a7-b723-42e1-83c1-f45a72a26dd4",
@@ -1777,7 +1901,8 @@
       "3",
       "R",
       "R"
-    ]
+    ],
+    "usd_cents": 8
   },
   {
     "id": "6c6f1a8b-329e-4094-8141-6bc88311a08c",
@@ -1792,7 +1917,8 @@
       "2",
       "R",
       "R"
-    ]
+    ],
+    "usd_cents": 39
   },
   {
     "id": "a7792df3-e2ab-4e60-abee-f24b72807107",
@@ -1805,7 +1931,8 @@
     "card_type": "Instant",
     "cost": [
       "R"
-    ]
+    ],
+    "usd_cents": 4
   },
   {
     "id": "43b5d46e-7054-44f8-9a14-b412f2f0ab86",
@@ -1819,7 +1946,8 @@
     "cost": [
       "1",
       "R"
-    ]
+    ],
+    "usd_cents": 174
   },
   {
     "id": "e60610fe-891d-46de-b556-d03b637dccec",
@@ -1834,7 +1962,8 @@
       "X",
       "X",
       "R"
-    ]
+    ],
+    "usd_cents": 434
   },
   {
     "id": "d46e9902-81fb-4a3c-9f2f-d3faf031631d",
@@ -1850,7 +1979,8 @@
       "R",
       "R",
       "R"
-    ]
+    ],
+    "usd_cents": 95
   },
   {
     "id": "636c4042-703f-4548-9a0f-cb550c468bf9",
@@ -1864,7 +1994,8 @@
     "cost": [
       "1",
       "R"
-    ]
+    ],
+    "usd_cents": 11
   },
   {
     "id": "4657aa15-8274-4bd7-afe4-504693064373",
@@ -1878,7 +2009,8 @@
     "cost": [
       "3",
       "R"
-    ]
+    ],
+    "usd_cents": 4
   },
   {
     "id": "7aa45bfd-7075-470d-8aaa-16e34109eb5a",
@@ -1892,7 +2024,8 @@
     "cost": [
       "1",
       "R"
-    ]
+    ],
+    "usd_cents": 54
   },
   {
     "id": "40e23909-7e08-4686-ae59-e18e7d4cfd3c",
@@ -1906,7 +2039,8 @@
     "cost": [
       "1",
       "R"
-    ]
+    ],
+    "usd_cents": 13
   },
   {
     "id": "0fceeb14-a22a-4ab6-9e6d-ba375b6865c0",
@@ -1920,7 +2054,8 @@
     "cost": [
       "2",
       "R"
-    ]
+    ],
+    "usd_cents": 4
   },
   {
     "id": "0430b9fa-3bc6-4183-ad5b-d70ad401fa97",
@@ -1934,7 +2069,8 @@
     "cost": [
       "5",
       "R"
-    ]
+    ],
+    "usd_cents": 8
   },
   {
     "id": "beb10d42-fa19-400c-bad8-ec3827f077bc",
@@ -1947,7 +2083,8 @@
     "card_type": "Enchantment \u2014 Aura",
     "cost": [
       "R"
-    ]
+    ],
+    "usd_cents": 7
   },
   {
     "id": "73884fd1-5be9-4ad5-8c72-c0fbe27ad4c1",
@@ -1961,7 +2098,8 @@
     "cost": [
       "2",
       "R"
-    ]
+    ],
+    "usd_cents": 11
   },
   {
     "id": "cbc09839-1463-40b8-86bd-fb96797b2633",
@@ -1975,7 +2113,8 @@
     "cost": [
       "3",
       "R"
-    ]
+    ],
+    "usd_cents": 12
   },
   {
     "id": "ff89ad3b-b154-49e2-a0fd-135279512250",
@@ -1990,7 +2129,8 @@
       "2",
       "R",
       "R"
-    ]
+    ],
+    "usd_cents": 10
   },
   {
     "id": "0fe68bce-6207-4fd1-9e82-a18fd2d6ddca",
@@ -2005,7 +2145,8 @@
       "2",
       "R",
       "R"
-    ]
+    ],
+    "usd_cents": 31
   },
   {
     "id": "dce9a30f-a850-4826-a255-ce511d567b60",
@@ -2019,7 +2160,8 @@
     "cost": [
       "2",
       "R"
-    ]
+    ],
+    "usd_cents": 17
   },
   {
     "id": "73e72249-84ea-4e9c-9f64-b67b02ffdf3a",
@@ -2033,7 +2175,8 @@
     "cost": [
       "1",
       "R"
-    ]
+    ],
+    "usd_cents": 5
   },
   {
     "id": "241cc968-b93e-4fe3-a66d-7776d29aa023",
@@ -2047,7 +2190,8 @@
     "cost": [
       "1",
       "R"
-    ]
+    ],
+    "usd_cents": 13
   },
   {
     "id": "5578e3e2-2460-4dfb-9016-527463f2d918",
@@ -2061,7 +2205,8 @@
     "cost": [
       "2",
       "R"
-    ]
+    ],
+    "usd_cents": 11
   },
   {
     "id": "172383d9-9135-4daa-a647-9d76435d3158",
@@ -2075,7 +2220,8 @@
     "cost": [
       "3",
       "R"
-    ]
+    ],
+    "usd_cents": 5
   },
   {
     "id": "f1dda42d-55eb-46fc-89da-17cc5bfaa823",
@@ -2089,7 +2235,8 @@
     "cost": [
       "1",
       "R"
-    ]
+    ],
+    "usd_cents": 5
   },
   {
     "id": "8a6a7000-4a1d-4cd4-a85e-4b7b20d8e543",
@@ -2104,7 +2251,8 @@
       "3",
       "R",
       "R"
-    ]
+    ],
+    "usd_cents": 675
   },
   {
     "id": "c983e879-d9d2-47cc-9958-506711ca80cd",
@@ -2117,7 +2265,8 @@
     "card_type": "Sorcery",
     "cost": [
       "R"
-    ]
+    ],
+    "usd_cents": 17
   },
   {
     "id": "78833788-ffb2-43fc-9345-975f1cd46f38",
@@ -2131,7 +2280,8 @@
     "cost": [
       "4",
       "R"
-    ]
+    ],
+    "usd_cents": 3
   },
   {
     "id": "36506caa-2630-46ec-9aa0-e1885749ad90",
@@ -2146,7 +2296,8 @@
       "3",
       "R",
       "R"
-    ]
+    ],
+    "usd_cents": 490
   },
   {
     "id": "c043f30b-548f-4c31-a415-0e59c2841dcf",
@@ -2160,7 +2311,8 @@
     "cost": [
       "2",
       "R"
-    ]
+    ],
+    "usd_cents": 4
   },
   {
     "id": "89e7fec3-94b5-411e-aeb0-44a64f517986",
@@ -2175,7 +2327,8 @@
       "5",
       "R",
       "R"
-    ]
+    ],
+    "usd_cents": 19
   },
   {
     "id": "a2884824-d138-47f2-913b-32cd475e9584",
@@ -2189,7 +2342,8 @@
     "cost": [
       "2",
       "R"
-    ]
+    ],
+    "usd_cents": 30
   },
   {
     "id": "bbe49a97-dac8-4273-b4dc-45cdf8f5a6e0",
@@ -2203,7 +2357,8 @@
     "cost": [
       "1",
       "R"
-    ]
+    ],
+    "usd_cents": 13
   },
   {
     "id": "9e69eb29-a7e4-4826-9535-9a073136c688",
@@ -2216,7 +2371,8 @@
     "card_type": "Creature \u2014 Human Warrior",
     "cost": [
       "R"
-    ]
+    ],
+    "usd_cents": 4
   },
   {
     "id": "9564d79d-5f4d-4192-94ee-5e5998011266",
@@ -2229,7 +2385,8 @@
     "card_type": "Creature \u2014 Human Shaman",
     "cost": [
       "R"
-    ]
+    ],
+    "usd_cents": 9
   },
   {
     "id": "ea28bd68-47a8-47c6-be16-75ae622daf0a",
@@ -2243,7 +2400,8 @@
     "cost": [
       "2",
       "R"
-    ]
+    ],
+    "usd_cents": 8
   },
   {
     "id": "5845a5bc-6b7d-4bbb-80b3-a0f877b95553",
@@ -2257,7 +2415,8 @@
     "cost": [
       "1",
       "R"
-    ]
+    ],
+    "usd_cents": 8
   },
   {
     "id": "daa39826-7f89-41cb-a7fe-7f7be817d5cd",
@@ -2272,7 +2431,8 @@
       "4",
       "R",
       "R"
-    ]
+    ],
+    "usd_cents": 19
   },
   {
     "id": "5ddb3936-8f5a-498d-a46c-27eb9546c76c",
@@ -2286,7 +2446,8 @@
     "cost": [
       "R",
       "R"
-    ]
+    ],
+    "usd_cents": 81
   },
   {
     "id": "e8f7c8ea-e9c1-4d78-972c-15c4014915a0",
@@ -2302,7 +2463,8 @@
       "R",
       "R",
       "R"
-    ]
+    ],
+    "usd_cents": 190
   },
   {
     "id": "1d7b747e-446a-4c25-9834-0be8476dc22d",
@@ -2316,7 +2478,8 @@
     "cost": [
       "1",
       "R"
-    ]
+    ],
+    "usd_cents": 4
   },
   {
     "id": "dbbefd98-4b17-4cc2-9ef9-8807f594cb16",
@@ -2329,7 +2492,8 @@
     "card_type": "Creature \u2014 Devil",
     "cost": [
       "R"
-    ]
+    ],
+    "usd_cents": 56
   },
   {
     "id": "a9db329b-6248-4082-bfc8-5d2c0db43338",
@@ -2343,7 +2507,8 @@
     "cost": [
       "3",
       "R"
-    ]
+    ],
+    "usd_cents": 8
   },
   {
     "id": "fc027b11-1ecc-430d-a862-586a14bb23c3",
@@ -2357,7 +2522,8 @@
     "cost": [
       "4",
       "R"
-    ]
+    ],
+    "usd_cents": 30
   },
   {
     "id": "afbc8fd0-dc15-4ac9-b97b-173f7fb66ed7",
@@ -2370,7 +2536,8 @@
     "card_type": "Enchantment \u2014 Aura",
     "cost": [
       "G"
-    ]
+    ],
+    "usd_cents": 34
   },
   {
     "id": "d16453f1-c6ca-4288-ab72-315ed9bb0ab0",
@@ -2384,7 +2551,8 @@
     "cost": [
       "4",
       "G"
-    ]
+    ],
+    "usd_cents": 18
   },
   {
     "id": "8f067c26-c51d-44d0-a0af-106b5778f06a",
@@ -2398,7 +2566,8 @@
     "cost": [
       "2",
       "G"
-    ]
+    ],
+    "usd_cents": 19
   },
   {
     "id": "b9f0048f-aaa0-4597-b898-ee754d0bbe4b",
@@ -2412,7 +2581,8 @@
     "cost": [
       "1",
       "G"
-    ]
+    ],
+    "usd_cents": 55
   },
   {
     "id": "e8ab9cd3-2faf-4500-a2ee-90b3a8d559c4",
@@ -2427,7 +2597,8 @@
       "1",
       "G",
       "G"
-    ]
+    ],
+    "usd_cents": 262
   },
   {
     "id": "a249be17-73ed-4108-89c0-f7e87939beb8",
@@ -2443,7 +2614,8 @@
       "G",
       "G",
       "G"
-    ]
+    ],
+    "usd_cents": 2461
   },
   {
     "id": "ada93208-5cda-4e2d-b9a7-15345e30b831",
@@ -2457,7 +2629,8 @@
     "cost": [
       "2",
       "G"
-    ]
+    ],
+    "usd_cents": 302
   },
   {
     "id": "640e21ad-5064-41bc-886e-2c997f69a3f5",
@@ -2470,7 +2643,8 @@
     "card_type": "Creature \u2014 Human Cleric",
     "cost": [
       "G"
-    ]
+    ],
+    "usd_cents": 9
   },
   {
     "id": "1d8c794a-7964-41f0-bc9c-27af7cf87aaa",
@@ -2484,7 +2658,8 @@
     "cost": [
       "3",
       "G"
-    ]
+    ],
+    "usd_cents": 34
   },
   {
     "id": "57e6fb62-7ee3-444d-8fd4-c1f44014a05c",
@@ -2499,7 +2674,8 @@
       "1",
       "G",
       "G"
-    ]
+    ],
+    "usd_cents": 223
   },
   {
     "id": "0efea1b1-f212-4b97-98dd-922f85ab191f",
@@ -2513,7 +2689,8 @@
     "cost": [
       "2",
       "G"
-    ]
+    ],
+    "usd_cents": 24
   },
   {
     "id": "78fa2ddc-142b-4562-8812-ecb72e3bae57",
@@ -2527,7 +2704,8 @@
     "cost": [
       "3",
       "G"
-    ]
+    ],
+    "usd_cents": 9
   },
   {
     "id": "26f00a18-0ff7-42e4-be16-aa34fe27093b",
@@ -2541,7 +2719,8 @@
     "cost": [
       "4",
       "G"
-    ]
+    ],
+    "usd_cents": 8
   },
   {
     "id": "a016c872-09bd-42e1-94da-f587e8252492",
@@ -2555,7 +2734,8 @@
     "cost": [
       "2",
       "G"
-    ]
+    ],
+    "usd_cents": 16
   },
   {
     "id": "dc4982f0-0ede-4846-82c8-bcf7ad63d099",
@@ -2569,7 +2749,8 @@
     "cost": [
       "1",
       "G"
-    ]
+    ],
+    "usd_cents": 4
   },
   {
     "id": "dad60d45-1c99-41d1-a237-c0ee18ce5361",
@@ -2583,7 +2764,8 @@
     "cost": [
       "5",
       "G"
-    ]
+    ],
+    "usd_cents": 8
   },
   {
     "id": "6516c7c6-d49b-49c5-8968-563622c2c8c1",
@@ -2596,7 +2778,8 @@
     "card_type": "Instant",
     "cost": [
       "G"
-    ]
+    ],
+    "usd_cents": 5
   },
   {
     "id": "604948d8-6224-45ca-9ebb-d716644bbfd0",
@@ -2610,7 +2793,8 @@
     "cost": [
       "2",
       "G"
-    ]
+    ],
+    "usd_cents": 12
   },
   {
     "id": "95d25235-de1c-4b67-9712-24f0564bd2bf",
@@ -2624,7 +2808,8 @@
     "cost": [
       "2",
       "G"
-    ]
+    ],
+    "usd_cents": 13
   },
   {
     "id": "75935f0e-9086-485b-b3e6-1a958fd0f2af",
@@ -2638,7 +2823,8 @@
     "cost": [
       "3",
       "G"
-    ]
+    ],
+    "usd_cents": 12
   },
   {
     "id": "4d3de66c-2283-458f-9d0d-943027520aa2",
@@ -2652,7 +2838,8 @@
     "cost": [
       "1",
       "G"
-    ]
+    ],
+    "usd_cents": 8
   },
   {
     "id": "fe65eded-37ef-4cf0-b55c-390d34aab7b8",
@@ -2667,7 +2854,8 @@
       "4",
       "G",
       "G"
-    ]
+    ],
+    "usd_cents": 7
   },
   {
     "id": "4278f7bd-afff-4a1d-a0bb-bf9ce3ad5a2e",
@@ -2682,7 +2870,8 @@
       "8",
       "G",
       "G"
-    ]
+    ],
+    "usd_cents": 535
   },
   {
     "id": "fd1cb530-b9d5-4386-b89e-2acecc8294c8",
@@ -2697,7 +2886,8 @@
       "4",
       "G",
       "G"
-    ]
+    ],
+    "usd_cents": 14
   },
   {
     "id": "36f7d663-115c-4ad0-a072-633df054cce4",
@@ -2712,7 +2902,8 @@
       "4",
       "G",
       "G"
-    ]
+    ],
+    "usd_cents": 33
   },
   {
     "id": "93cd9be4-1ce4-4a7c-b2a6-98d3fde0a92b",
@@ -2726,7 +2917,8 @@
     "cost": [
       "1",
       "G"
-    ]
+    ],
+    "usd_cents": 21
   },
   {
     "id": "28f75827-a144-4fe2-a713-4439ae7567eb",
@@ -2739,7 +2931,8 @@
     "card_type": "Instant",
     "cost": [
       "G"
-    ]
+    ],
+    "usd_cents": 7
   },
   {
     "id": "409c0272-7a43-4a6c-ab3f-740397b1f5c8",
@@ -2753,7 +2946,8 @@
     "cost": [
       "2",
       "G"
-    ]
+    ],
+    "usd_cents": 67
   },
   {
     "id": "078f5e79-18dd-44e5-a930-8dc288f0b535",
@@ -2768,7 +2962,8 @@
       "4",
       "G",
       "G"
-    ]
+    ],
+    "usd_cents": 295
   },
   {
     "id": "2e8d0a22-f31b-45c0-85c7-0101aa63c77b",
@@ -2782,7 +2977,8 @@
     "cost": [
       "1",
       "G"
-    ]
+    ],
+    "usd_cents": 24
   },
   {
     "id": "ae80fefb-af78-4f98-8058-71b61e91842f",
@@ -2796,7 +2992,8 @@
     "cost": [
       "1",
       "G"
-    ]
+    ],
+    "usd_cents": 6
   },
   {
     "id": "7bb41fa6-0cc6-43e5-9aa8-fcd9c781f4ce",
@@ -2810,7 +3007,8 @@
     "cost": [
       "2",
       "G"
-    ]
+    ],
+    "usd_cents": 20
   },
   {
     "id": "3ee66ef9-10a7-4aab-88f7-84956811cc6c",
@@ -2824,7 +3022,8 @@
     "cost": [
       "2",
       "G"
-    ]
+    ],
+    "usd_cents": 7
   },
   {
     "id": "46199391-a4f5-4532-b89c-b7691b229bd0",
@@ -2837,7 +3036,8 @@
     "card_type": "Creature \u2014 Human Shaman",
     "cost": [
       "G"
-    ]
+    ],
+    "usd_cents": 684
   },
   {
     "id": "7591ee4f-9bfe-4419-84df-abf35d85bb94",
@@ -2852,7 +3052,8 @@
       "4",
       "G",
       "G"
-    ]
+    ],
+    "usd_cents": 9
   },
   {
     "id": "ac606ad5-b8d0-4c93-a9de-5e41229a8229",
@@ -2866,7 +3067,8 @@
     "cost": [
       "1",
       "G"
-    ]
+    ],
+    "usd_cents": 17
   },
   {
     "id": "7eaa6be7-2c6f-4442-85d1-ae31ad87fd98",
@@ -2880,7 +3082,8 @@
     "cost": [
       "2",
       "G"
-    ]
+    ],
+    "usd_cents": 62
   },
   {
     "id": "4658b4b2-7043-4ca2-96fd-4f663c20c80f",
@@ -2894,7 +3097,8 @@
     "cost": [
       "4",
       "G"
-    ]
+    ],
+    "usd_cents": 4
   },
   {
     "id": "88cc00e5-9683-4ccc-a914-c422b76f6014",
@@ -2909,7 +3113,8 @@
       "1",
       "G",
       "G"
-    ]
+    ],
+    "usd_cents": 29
   },
   {
     "id": "8629c598-11c8-4911-acfb-0643e5feffa8",
@@ -2924,7 +3129,8 @@
       "3",
       "G",
       "G"
-    ]
+    ],
+    "usd_cents": 43
   },
   {
     "id": "b9320432-4f89-4363-91e6-2e740535cc2e",
@@ -2938,7 +3144,8 @@
     "cost": [
       "4",
       "G"
-    ]
+    ],
+    "usd_cents": 6
   },
   {
     "id": "e390bc78-31ad-4131-a9e4-93ee0c7c2f34",
@@ -2954,7 +3161,8 @@
       "W",
       "W",
       "U"
-    ]
+    ],
+    "usd_cents": 98
   },
   {
     "id": "7208fcb8-83e6-44ce-af9a-ca1566825018",
@@ -2970,7 +3178,8 @@
       "R",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 609
   },
   {
     "id": "feccd0e2-fae6-4ced-acdf-4252ed5c56e7",
@@ -2986,7 +3195,8 @@
       "G",
       "W",
       "W"
-    ]
+    ],
+    "usd_cents": 202
   },
   {
     "id": "28226303-7e67-4b88-adae-2386aff033ec",
@@ -2999,7 +3209,8 @@
     "card_type": "Artifact",
     "cost": [
       "3"
-    ]
+    ],
+    "usd_cents": 9
   },
   {
     "id": "3fa99b48-469d-4112-bdfd-2391fa439514",
@@ -3012,7 +3223,8 @@
     "card_type": "Artifact \u2014 Equipment",
     "cost": [
       "3"
-    ]
+    ],
+    "usd_cents": 21
   },
   {
     "id": "897a5116-043c-46aa-880e-be8dcb1618bc",
@@ -3025,7 +3237,8 @@
     "card_type": "Artifact \u2014 Equipment",
     "cost": [
       "1"
-    ]
+    ],
+    "usd_cents": 10
   },
   {
     "id": "7378e998-0382-42fc-8606-c6e7fc04b6a4",
@@ -3038,7 +3251,8 @@
     "card_type": "Artifact",
     "cost": [
       "5"
-    ]
+    ],
+    "usd_cents": 429
   },
   {
     "id": "8a840ee7-5728-4b1b-92ac-54612e5397b3",
@@ -3051,7 +3265,8 @@
     "card_type": "Artifact",
     "cost": [
       "3"
-    ]
+    ],
+    "usd_cents": 26
   },
   {
     "id": "7d97f8b8-bdb0-4d4b-b077-9affe2f9cd91",
@@ -3064,7 +3279,8 @@
     "card_type": "Artifact Creature \u2014 Construct",
     "cost": [
       "2"
-    ]
+    ],
+    "usd_cents": 10
   },
   {
     "id": "0b5efb85-1e5f-40ba-97b1-0ef6ac680330",
@@ -3077,7 +3293,8 @@
     "card_type": "Artifact \u2014 Equipment",
     "cost": [
       "4"
-    ]
+    ],
+    "usd_cents": 84
   },
   {
     "id": "f808ed9b-95ac-4069-bdca-b100bc816b5b",
@@ -3090,7 +3307,8 @@
     "card_type": "Artifact Creature \u2014 Construct",
     "cost": [
       "5"
-    ]
+    ],
+    "usd_cents": 2
   },
   {
     "id": "46e4aa67-4643-42ff-8172-200498686494",
@@ -3103,7 +3321,8 @@
     "card_type": "Artifact \u2014 Book",
     "cost": [
       "4"
-    ]
+    ],
+    "usd_cents": 135
   },
   {
     "id": "871e6e2a-7e45-446b-b964-94377eb6ca92",
@@ -3116,7 +3335,8 @@
     "card_type": "Artifact",
     "cost": [
       "1"
-    ]
+    ],
+    "usd_cents": 26
   },
   {
     "id": "2263ceaf-49d2-40fe-86b8-146271b11e46",
@@ -3129,7 +3349,8 @@
     "card_type": "Artifact",
     "cost": [
       "1"
-    ]
+    ],
+    "usd_cents": 6
   },
   {
     "id": "9543d454-27d6-42ba-aad8-54811d180cfb",
@@ -3142,7 +3363,8 @@
     "card_type": "Artifact \u2014 Equipment",
     "cost": [
       "2"
-    ]
+    ],
+    "usd_cents": 14
   },
   {
     "id": "ce8d9db6-5737-4a1f-ae4e-75821a602784",
@@ -3155,7 +3377,8 @@
     "card_type": "Artifact \u2014 Equipment",
     "cost": [
       "2"
-    ]
+    ],
+    "usd_cents": 13
   },
   {
     "id": "ec733373-3f68-47ad-ac35-6f39092f1e26",
@@ -3168,7 +3391,8 @@
     "card_type": "Artifact",
     "cost": [
       "3"
-    ]
+    ],
+    "usd_cents": 11
   },
   {
     "id": "c767a897-52e3-4401-8104-930157bb2b02",
@@ -3179,7 +3403,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/7/c767a897-52e3-4401-8104-930157bb2b02.webp",
     "rarity": "Rare",
     "card_type": "Land",
-    "cost": null
+    "cost": null,
+    "usd_cents": 176
   },
   {
     "id": "1381c8f1-a292-4bdf-b20c-a5c2a169ee84",
@@ -3190,7 +3415,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/3/1381c8f1-a292-4bdf-b20c-a5c2a169ee84.webp",
     "rarity": "Rare",
     "card_type": "Land",
-    "cost": null
+    "cost": null,
+    "usd_cents": 5001
   },
   {
     "id": "16fb45bc-6152-4b01-9831-a8e80b1c1852",
@@ -3201,7 +3427,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/6/16fb45bc-6152-4b01-9831-a8e80b1c1852.webp",
     "rarity": "Rare",
     "card_type": "Land",
-    "cost": null
+    "cost": null,
+    "usd_cents": 29
   },
   {
     "id": "f903b04a-2733-4ce7-9d83-9db8d5e1e10d",
@@ -3212,7 +3439,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/9/f903b04a-2733-4ce7-9d83-9db8d5e1e10d.webp",
     "rarity": "Common",
     "card_type": "Land",
-    "cost": null
+    "cost": null,
+    "usd_cents": 61
   },
   {
     "id": "939a4351-3ec7-4e6c-8cdd-766bfd670391",
@@ -3223,7 +3451,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/3/939a4351-3ec7-4e6c-8cdd-766bfd670391.webp",
     "rarity": "Rare",
     "card_type": "Land",
-    "cost": null
+    "cost": null,
+    "usd_cents": 35
   },
   {
     "id": "f090db87-b7a9-4c88-a211-495b27ae37c9",
@@ -3234,7 +3463,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/0/f090db87-b7a9-4c88-a211-495b27ae37c9.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Plains",
-    "cost": null
+    "cost": null,
+    "usd_cents": 18
   },
   {
     "id": "91348123-e2d0-4acb-ab4e-ec17652b7853",
@@ -3245,7 +3475,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/1/91348123-e2d0-4acb-ab4e-ec17652b7853.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Plains",
-    "cost": null
+    "cost": null,
+    "usd_cents": 23
   },
   {
     "id": "9ca16bd5-e261-4229-a92d-7cd55654dd11",
@@ -3256,7 +3487,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/c/9ca16bd5-e261-4229-a92d-7cd55654dd11.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Plains",
-    "cost": null
+    "cost": null,
+    "usd_cents": 15
   },
   {
     "id": "25934479-a47e-45b8-bc35-fc4b659b0d68",
@@ -3267,7 +3499,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/5/25934479-a47e-45b8-bc35-fc4b659b0d68.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Island",
-    "cost": null
+    "cost": null,
+    "usd_cents": 10
   },
   {
     "id": "22f920a5-74ea-4b94-8822-5867e6d5017a",
@@ -3278,7 +3511,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/2/22f920a5-74ea-4b94-8822-5867e6d5017a.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Island",
-    "cost": null
+    "cost": null,
+    "usd_cents": 15
   },
   {
     "id": "5cf3685e-0ed3-4dc3-9033-8faa10b17c27",
@@ -3289,7 +3523,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/c/5cf3685e-0ed3-4dc3-9033-8faa10b17c27.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Island",
-    "cost": null
+    "cost": null,
+    "usd_cents": 13
   },
   {
     "id": "339c3f05-444c-4e0a-a556-fc09417ee984",
@@ -3300,7 +3535,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/3/339c3f05-444c-4e0a-a556-fc09417ee984.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Swamp",
-    "cost": null
+    "cost": null,
+    "usd_cents": 16
   },
   {
     "id": "26c57bee-2810-467c-8ed7-6cecb5cbc379",
@@ -3311,7 +3547,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/6/26c57bee-2810-467c-8ed7-6cecb5cbc379.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Swamp",
-    "cost": null
+    "cost": null,
+    "usd_cents": 17
   },
   {
     "id": "06a570b2-bcab-4500-b790-252baaf1f6d8",
@@ -3322,7 +3559,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/6/06a570b2-bcab-4500-b790-252baaf1f6d8.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Swamp",
-    "cost": null
+    "cost": null,
+    "usd_cents": 23
   },
   {
     "id": "f53b7e7e-494b-4346-b18e-0e879bba7cec",
@@ -3333,7 +3571,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/5/f53b7e7e-494b-4346-b18e-0e879bba7cec.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Mountain",
-    "cost": null
+    "cost": null,
+    "usd_cents": 12
   },
   {
     "id": "94b728a4-c3a9-408e-8333-8266a02c64fa",
@@ -3344,7 +3583,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/4/94b728a4-c3a9-408e-8333-8266a02c64fa.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Mountain",
-    "cost": null
+    "cost": null,
+    "usd_cents": 13
   },
   {
     "id": "0e468809-d639-43f0-8834-16e921547dee",
@@ -3355,7 +3595,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/e/0e468809-d639-43f0-8834-16e921547dee.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Mountain",
-    "cost": null
+    "cost": null,
+    "usd_cents": 15
   },
   {
     "id": "8097c9ce-8fe9-4150-9810-52f6c92c6099",
@@ -3366,7 +3607,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/0/8097c9ce-8fe9-4150-9810-52f6c92c6099.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Forest",
-    "cost": null
+    "cost": null,
+    "usd_cents": 15
   },
   {
     "id": "9f104987-f678-4ba4-b7f5-69ae7fdc01a3",
@@ -3377,7 +3619,8 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/f/9f104987-f678-4ba4-b7f5-69ae7fdc01a3.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Forest",
-    "cost": null
+    "cost": null,
+    "usd_cents": 25
   },
   {
     "id": "990f4974-fcef-46d1-8baa-6a215f7f3292",
@@ -3388,6 +3631,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/9/990f4974-fcef-46d1-8baa-6a215f7f3292.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Forest",
-    "cost": null
+    "cost": null,
+    "usd_cents": 26
   }
 ]

@@ -1,1 +1,3639 @@
-[]
+[
+  {
+    "id": "975f7752-e981-4046-ae9b-90b20db6b23a",
+    "title": "Armament Master",
+    "set_id": "zen",
+    "order": 1,
+    "scryfall_uri": "https://scryfall.com/card/zen/1/armament-master",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/7/975f7752-e981-4046-ae9b-90b20db6b23a.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Kor Soldier",
+    "cost": [
+      "W",
+      "W"
+    ],
+    "usd_cents": 20
+  },
+  {
+    "id": "d94d5ae2-4d37-4c5f-b490-e578297d87c2",
+    "title": "Arrow Volley Trap",
+    "set_id": "zen",
+    "order": 2,
+    "scryfall_uri": "https://scryfall.com/card/zen/2/arrow-volley-trap",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/9/d94d5ae2-4d37-4c5f-b490-e578297d87c2.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant \u2014 Trap",
+    "cost": [
+      "3",
+      "W",
+      "W"
+    ],
+    "usd_cents": 13
+  },
+  {
+    "id": "5f657723-dd5d-4786-9d9b-ac7ed279615a",
+    "title": "Bold Defense",
+    "set_id": "zen",
+    "order": 3,
+    "scryfall_uri": "https://scryfall.com/card/zen/3/bold-defense",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/f/5f657723-dd5d-4786-9d9b-ac7ed279615a.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "2",
+      "W"
+    ],
+    "usd_cents": 10
+  },
+  {
+    "id": "c14c492d-3fd7-4b2a-910e-bfcb33752eba",
+    "title": "Brave the Elements",
+    "set_id": "zen",
+    "order": 4,
+    "scryfall_uri": "https://scryfall.com/card/zen/4/brave-the-elements",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/1/c14c492d-3fd7-4b2a-910e-bfcb33752eba.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant",
+    "cost": [
+      "W"
+    ],
+    "usd_cents": 103
+  },
+  {
+    "id": "ffdf3a3d-292d-40b9-b28c-34ad33a76bb4",
+    "title": "Caravan Hurda",
+    "set_id": "zen",
+    "order": 5,
+    "scryfall_uri": "https://scryfall.com/card/zen/5/caravan-hurda",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/f/ffdf3a3d-292d-40b9-b28c-34ad33a76bb4.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Giant",
+    "cost": [
+      "4",
+      "W"
+    ],
+    "usd_cents": 16
+  },
+  {
+    "id": "4599c159-386e-4b13-a386-185924333fc5",
+    "title": "Celestial Mantle",
+    "set_id": "zen",
+    "order": 6,
+    "scryfall_uri": "https://scryfall.com/card/zen/6/celestial-mantle",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/5/4599c159-386e-4b13-a386-185924333fc5.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment \u2014 Aura",
+    "cost": [
+      "3",
+      "W",
+      "W",
+      "W"
+    ],
+    "usd_cents": 764
+  },
+  {
+    "id": "1743b625-e937-4cac-8701-9e2dd709a9a4",
+    "title": "Cliff Threader",
+    "set_id": "zen",
+    "order": 7,
+    "scryfall_uri": "https://scryfall.com/card/zen/7/cliff-threader",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/7/1743b625-e937-4cac-8701-9e2dd709a9a4.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kor Scout",
+    "cost": [
+      "1",
+      "W"
+    ],
+    "usd_cents": 8
+  },
+  {
+    "id": "1af1844a-601a-48c1-bf96-921d2d2e2aa1",
+    "title": "Conqueror's Pledge",
+    "set_id": "zen",
+    "order": 8,
+    "scryfall_uri": "https://scryfall.com/card/zen/8/conquerors-pledge",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/a/1af1844a-601a-48c1-bf96-921d2d2e2aa1.webp",
+    "rarity": "Rare",
+    "card_type": "Sorcery",
+    "cost": [
+      "2",
+      "W",
+      "W",
+      "W"
+    ],
+    "usd_cents": 40
+  },
+  {
+    "id": "2aa98fca-972b-46c2-bdec-6ace35c988d5",
+    "title": "Day of Judgment",
+    "set_id": "zen",
+    "order": 9,
+    "scryfall_uri": "https://scryfall.com/card/zen/9/day-of-judgment",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/a/2aa98fca-972b-46c2-bdec-6ace35c988d5.webp",
+    "rarity": "Rare",
+    "card_type": "Sorcery",
+    "cost": [
+      "2",
+      "W",
+      "W"
+    ],
+    "usd_cents": 202
+  },
+  {
+    "id": "16e31e43-84d3-429e-9e81-60b325989c93",
+    "title": "Devout Lightcaster",
+    "set_id": "zen",
+    "order": 10,
+    "scryfall_uri": "https://scryfall.com/card/zen/10/devout-lightcaster",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/6/16e31e43-84d3-429e-9e81-60b325989c93.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Kor Cleric",
+    "cost": [
+      "W",
+      "W",
+      "W"
+    ],
+    "usd_cents": 29
+  },
+  {
+    "id": "8b386d39-ba41-42f8-ba05-f9ed602ee23f",
+    "title": "Emeria Angel",
+    "set_id": "zen",
+    "order": 11,
+    "scryfall_uri": "https://scryfall.com/card/zen/11/emeria-angel",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/b/8b386d39-ba41-42f8-ba05-f9ed602ee23f.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Angel",
+    "cost": [
+      "2",
+      "W",
+      "W"
+    ],
+    "usd_cents": 71
+  },
+  {
+    "id": "cc3c93e6-af75-4d7e-86b0-8a38425f51a1",
+    "title": "Felidar Sovereign",
+    "set_id": "zen",
+    "order": 12,
+    "scryfall_uri": "https://scryfall.com/card/zen/12/felidar-sovereign",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/c/cc3c93e6-af75-4d7e-86b0-8a38425f51a1.webp",
+    "rarity": "Mythic Rare",
+    "card_type": "Creature \u2014 Cat Beast",
+    "cost": [
+      "4",
+      "W",
+      "W"
+    ],
+    "usd_cents": 473
+  },
+  {
+    "id": "62458cfe-7231-4e09-b398-9c4d9330d08e",
+    "title": "Iona, Shield of Emeria",
+    "set_id": "zen",
+    "order": 13,
+    "scryfall_uri": "https://scryfall.com/card/zen/13/iona-shield-of-emeria",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/2/62458cfe-7231-4e09-b398-9c4d9330d08e.webp",
+    "rarity": "Mythic Rare",
+    "card_type": "Legendary Creature \u2014 Angel",
+    "cost": [
+      "6",
+      "W",
+      "W",
+      "W"
+    ],
+    "usd_cents": 1197
+  },
+  {
+    "id": "09cfe585-8a55-4b27-89e0-dfb6946fe1f3",
+    "title": "Journey to Nowhere",
+    "set_id": "zen",
+    "order": 14,
+    "scryfall_uri": "https://scryfall.com/card/zen/14/journey-to-nowhere",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/9/09cfe585-8a55-4b27-89e0-dfb6946fe1f3.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment",
+    "cost": [
+      "1",
+      "W"
+    ],
+    "usd_cents": 29
+  },
+  {
+    "id": "57f05d96-42d5-4e1d-a9c6-229a3f42dda9",
+    "title": "Kabira Evangel",
+    "set_id": "zen",
+    "order": 15,
+    "scryfall_uri": "https://scryfall.com/card/zen/15/kabira-evangel",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/7/57f05d96-42d5-4e1d-a9c6-229a3f42dda9.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Human Cleric Ally",
+    "cost": [
+      "2",
+      "W"
+    ],
+    "usd_cents": 322
+  },
+  {
+    "id": "9642bdbf-c03f-4c48-a5c8-c9201a08b834",
+    "title": "Kazandu Blademaster",
+    "set_id": "zen",
+    "order": 16,
+    "scryfall_uri": "https://scryfall.com/card/zen/16/kazandu-blademaster",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/6/9642bdbf-c03f-4c48-a5c8-c9201a08b834.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Human Soldier Ally",
+    "cost": [
+      "W",
+      "W"
+    ],
+    "usd_cents": 34
+  },
+  {
+    "id": "87ae3eb8-b570-4129-9d4e-b7afa8fc4840",
+    "title": "Kor Aeronaut",
+    "set_id": "zen",
+    "order": 17,
+    "scryfall_uri": "https://scryfall.com/card/zen/17/kor-aeronaut",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/7/87ae3eb8-b570-4129-9d4e-b7afa8fc4840.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Kor Soldier",
+    "cost": [
+      "W",
+      "W"
+    ],
+    "usd_cents": 11
+  },
+  {
+    "id": "6063b7ee-94ae-4a5b-9902-6aa0335af593",
+    "title": "Kor Cartographer",
+    "set_id": "zen",
+    "order": 18,
+    "scryfall_uri": "https://scryfall.com/card/zen/18/kor-cartographer",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/0/6063b7ee-94ae-4a5b-9902-6aa0335af593.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kor Scout",
+    "cost": [
+      "3",
+      "W"
+    ],
+    "usd_cents": 26
+  },
+  {
+    "id": "4fd1af74-ba3b-4528-9490-99edd54e9fe1",
+    "title": "Kor Duelist",
+    "set_id": "zen",
+    "order": 19,
+    "scryfall_uri": "https://scryfall.com/card/zen/19/kor-duelist",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/f/4fd1af74-ba3b-4528-9490-99edd54e9fe1.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Kor Soldier",
+    "cost": [
+      "W"
+    ],
+    "usd_cents": 17
+  },
+  {
+    "id": "68ad3199-c202-4b71-8a36-53547e70c39b",
+    "title": "Kor Hookmaster",
+    "set_id": "zen",
+    "order": 20,
+    "scryfall_uri": "https://scryfall.com/card/zen/20/kor-hookmaster",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/8/68ad3199-c202-4b71-8a36-53547e70c39b.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kor Soldier",
+    "cost": [
+      "2",
+      "W"
+    ],
+    "usd_cents": 7
+  },
+  {
+    "id": "00006596-1166-4a79-8443-ca9f82e6db4e",
+    "title": "Kor Outfitter",
+    "set_id": "zen",
+    "order": 21,
+    "scryfall_uri": "https://scryfall.com/card/zen/21/kor-outfitter",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/0/00006596-1166-4a79-8443-ca9f82e6db4e.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kor Soldier",
+    "cost": [
+      "W",
+      "W"
+    ],
+    "usd_cents": 22
+  },
+  {
+    "id": "038b04fe-d77a-4192-a084-654ef39aa9ff",
+    "title": "Kor Sanctifiers",
+    "set_id": "zen",
+    "order": 22,
+    "scryfall_uri": "https://scryfall.com/card/zen/22/kor-sanctifiers",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/3/038b04fe-d77a-4192-a084-654ef39aa9ff.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kor Cleric",
+    "cost": [
+      "2",
+      "W"
+    ],
+    "usd_cents": 14
+  },
+  {
+    "id": "bb2e9465-f5ba-4c7b-9f03-d40dc8394acd",
+    "title": "Kor Skyfisher",
+    "set_id": "zen",
+    "order": 23,
+    "scryfall_uri": "https://scryfall.com/card/zen/23/kor-skyfisher",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/b/bb2e9465-f5ba-4c7b-9f03-d40dc8394acd.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kor Soldier",
+    "cost": [
+      "1",
+      "W"
+    ],
+    "usd_cents": 50
+  },
+  {
+    "id": "245357c6-b4cd-40f3-b7c2-413eee767239",
+    "title": "Landbind Ritual",
+    "set_id": "zen",
+    "order": 24,
+    "scryfall_uri": "https://scryfall.com/card/zen/24/landbind-ritual",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/4/245357c6-b4cd-40f3-b7c2-413eee767239.webp",
+    "rarity": "Uncommon",
+    "card_type": "Sorcery",
+    "cost": [
+      "3",
+      "W",
+      "W"
+    ],
+    "usd_cents": 18
+  },
+  {
+    "id": "e9f3a20f-a788-4d8b-946b-d9c1c983a85a",
+    "title": "Luminarch Ascension",
+    "set_id": "zen",
+    "order": 25,
+    "scryfall_uri": "https://scryfall.com/card/zen/25/luminarch-ascension",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/9/e9f3a20f-a788-4d8b-946b-d9c1c983a85a.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment",
+    "cost": [
+      "1",
+      "W"
+    ],
+    "usd_cents": 1619
+  },
+  {
+    "id": "e76e9555-966c-4fc3-9ef4-a0154ccb8329",
+    "title": "Makindi Shieldmate",
+    "set_id": "zen",
+    "order": 26,
+    "scryfall_uri": "https://scryfall.com/card/zen/26/makindi-shieldmate",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/7/e76e9555-966c-4fc3-9ef4-a0154ccb8329.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kor Soldier Ally",
+    "cost": [
+      "2",
+      "W"
+    ],
+    "usd_cents": 27
+  },
+  {
+    "id": "2c9942a2-11d2-403b-89c6-35c23ac9e9da",
+    "title": "Narrow Escape",
+    "set_id": "zen",
+    "order": 27,
+    "scryfall_uri": "https://scryfall.com/card/zen/27/narrow-escape",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/c/2c9942a2-11d2-403b-89c6-35c23ac9e9da.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "2",
+      "W"
+    ],
+    "usd_cents": 12
+  },
+  {
+    "id": "5dae4042-8806-437c-8fc1-2d6996ff38c6",
+    "title": "Nimbus Wings",
+    "set_id": "zen",
+    "order": 28,
+    "scryfall_uri": "https://scryfall.com/card/zen/28/nimbus-wings",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/d/5dae4042-8806-437c-8fc1-2d6996ff38c6.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment \u2014 Aura",
+    "cost": [
+      "1",
+      "W"
+    ],
+    "usd_cents": 18
+  },
+  {
+    "id": "dae1e55c-bdf2-4327-9f97-032c2c3c7d0c",
+    "title": "Noble Vestige",
+    "set_id": "zen",
+    "order": 29,
+    "scryfall_uri": "https://scryfall.com/card/zen/29/noble-vestige",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/a/dae1e55c-bdf2-4327-9f97-032c2c3c7d0c.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Spirit",
+    "cost": [
+      "2",
+      "W"
+    ],
+    "usd_cents": 5
+  },
+  {
+    "id": "ced43447-fefc-482a-b8fa-33b9616aa532",
+    "title": "Ondu Cleric",
+    "set_id": "zen",
+    "order": 30,
+    "scryfall_uri": "https://scryfall.com/card/zen/30/ondu-cleric",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/e/ced43447-fefc-482a-b8fa-33b9616aa532.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kor Cleric Ally",
+    "cost": [
+      "1",
+      "W"
+    ],
+    "usd_cents": 23
+  },
+  {
+    "id": "d70a8ff1-f0cf-4aef-ad90-06902f98d434",
+    "title": "Pillarfield Ox",
+    "set_id": "zen",
+    "order": 31,
+    "scryfall_uri": "https://scryfall.com/card/zen/31/pillarfield-ox",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/7/d70a8ff1-f0cf-4aef-ad90-06902f98d434.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Ox",
+    "cost": [
+      "3",
+      "W"
+    ],
+    "usd_cents": 9
+  },
+  {
+    "id": "2823d9a5-dd2f-4e6a-8e3d-554c4204aa32",
+    "title": "Pitfall Trap",
+    "set_id": "zen",
+    "order": 32,
+    "scryfall_uri": "https://scryfall.com/card/zen/32/pitfall-trap",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/8/2823d9a5-dd2f-4e6a-8e3d-554c4204aa32.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant \u2014 Trap",
+    "cost": [
+      "2",
+      "W"
+    ],
+    "usd_cents": 10
+  },
+  {
+    "id": "00d6b8bb-ec11-4ded-a7fc-fa4ea0bb96cc",
+    "title": "Quest for the Holy Relic",
+    "set_id": "zen",
+    "order": 33,
+    "scryfall_uri": "https://scryfall.com/card/zen/33/quest-for-the-holy-relic",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/0/00d6b8bb-ec11-4ded-a7fc-fa4ea0bb96cc.webp",
+    "rarity": "Uncommon",
+    "card_type": "Enchantment",
+    "cost": [
+      "W"
+    ],
+    "usd_cents": 29
+  },
+  {
+    "id": "ff23b1c2-7b99-4504-8944-ada264725524",
+    "title": "Shepherd of the Lost",
+    "set_id": "zen",
+    "order": 34,
+    "scryfall_uri": "https://scryfall.com/card/zen/34/shepherd-of-the-lost",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/f/ff23b1c2-7b99-4504-8944-ada264725524.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Angel",
+    "cost": [
+      "4",
+      "W"
+    ],
+    "usd_cents": 18
+  },
+  {
+    "id": "f58a26f8-a2c9-48e5-8662-7cbd43c00411",
+    "title": "Shieldmate's Blessing",
+    "set_id": "zen",
+    "order": 35,
+    "scryfall_uri": "https://scryfall.com/card/zen/35/shieldmates-blessing",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/5/f58a26f8-a2c9-48e5-8662-7cbd43c00411.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "W"
+    ],
+    "usd_cents": 7
+  },
+  {
+    "id": "b0aaec1c-8084-4468-82e7-2e4cc5ebe244",
+    "title": "Steppe Lynx",
+    "set_id": "zen",
+    "order": 36,
+    "scryfall_uri": "https://scryfall.com/card/zen/36/steppe-lynx",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/0/b0aaec1c-8084-4468-82e7-2e4cc5ebe244.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Cat",
+    "cost": [
+      "W"
+    ],
+    "usd_cents": 22
+  },
+  {
+    "id": "b0811c4c-9e91-4785-b3d2-e4221c5d92d8",
+    "title": "Sunspring Expedition",
+    "set_id": "zen",
+    "order": 37,
+    "scryfall_uri": "https://scryfall.com/card/zen/37/sunspring-expedition",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/0/b0811c4c-9e91-4785-b3d2-e4221c5d92d8.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment",
+    "cost": [
+      "W"
+    ],
+    "usd_cents": 9
+  },
+  {
+    "id": "9a8b0fd3-ae3e-41eb-b31b-d941b84b6c64",
+    "title": "Windborne Charge",
+    "set_id": "zen",
+    "order": 38,
+    "scryfall_uri": "https://scryfall.com/card/zen/38/windborne-charge",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/a/9a8b0fd3-ae3e-41eb-b31b-d941b84b6c64.webp",
+    "rarity": "Uncommon",
+    "card_type": "Sorcery",
+    "cost": [
+      "2",
+      "W",
+      "W"
+    ],
+    "usd_cents": 16
+  },
+  {
+    "id": "134ff41d-1645-4d3a-94b6-e13a30dedb8e",
+    "title": "World Queller",
+    "set_id": "zen",
+    "order": 39,
+    "scryfall_uri": "https://scryfall.com/card/zen/39/world-queller",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/3/134ff41d-1645-4d3a-94b6-e13a30dedb8e.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Avatar",
+    "cost": [
+      "3",
+      "W",
+      "W"
+    ],
+    "usd_cents": 40
+  },
+  {
+    "id": "73a4657b-98de-4f4c-b921-46d15a8e6f5a",
+    "title": "Aether Figment",
+    "set_id": "zen",
+    "order": 40,
+    "scryfall_uri": "https://scryfall.com/card/zen/40/aether-figment",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/3/73a4657b-98de-4f4c-b921-46d15a8e6f5a.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Illusion",
+    "cost": [
+      "1",
+      "U"
+    ],
+    "usd_cents": 19
+  },
+  {
+    "id": "67bb2ca9-32b8-442d-b6a0-d624a87f5af8",
+    "title": "Archive Trap",
+    "set_id": "zen",
+    "order": 41,
+    "scryfall_uri": "https://scryfall.com/card/zen/41/archive-trap",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/7/67bb2ca9-32b8-442d-b6a0-d624a87f5af8.webp",
+    "rarity": "Rare",
+    "card_type": "Instant \u2014 Trap",
+    "cost": [
+      "3",
+      "U",
+      "U"
+    ],
+    "usd_cents": 196
+  },
+  {
+    "id": "dbfe803d-88d7-4ad2-b3d8-c41c123d8bf3",
+    "title": "Archmage Ascension",
+    "set_id": "zen",
+    "order": 42,
+    "scryfall_uri": "https://scryfall.com/card/zen/42/archmage-ascension",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/b/dbfe803d-88d7-4ad2-b3d8-c41c123d8bf3.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment",
+    "cost": [
+      "2",
+      "U"
+    ],
+    "usd_cents": 410
+  },
+  {
+    "id": "b5aabef2-982b-42c9-9804-08ce4d8910cd",
+    "title": "Caller of Gales",
+    "set_id": "zen",
+    "order": 43,
+    "scryfall_uri": "https://scryfall.com/card/zen/43/caller-of-gales",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/5/b5aabef2-982b-42c9-9804-08ce4d8910cd.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Merfolk Wizard",
+    "cost": [
+      "U"
+    ],
+    "usd_cents": 20
+  },
+  {
+    "id": "9e557f54-3d9d-4610-a0d0-5874feacc76e",
+    "title": "Cancel",
+    "set_id": "zen",
+    "order": 44,
+    "scryfall_uri": "https://scryfall.com/card/zen/44/cancel",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/e/9e557f54-3d9d-4610-a0d0-5874feacc76e.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "1",
+      "U",
+      "U"
+    ],
+    "usd_cents": 29
+  },
+  {
+    "id": "e1eb7372-481a-44a6-937d-21430ee02ff9",
+    "title": "Cosi's Trickster",
+    "set_id": "zen",
+    "order": 45,
+    "scryfall_uri": "https://scryfall.com/card/zen/45/cosis-trickster",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/1/e1eb7372-481a-44a6-937d-21430ee02ff9.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Merfolk Wizard",
+    "cost": [
+      "U"
+    ],
+    "usd_cents": 45
+  },
+  {
+    "id": "119d2661-ba22-4901-b89a-a0a8ec25d004",
+    "title": "Gomazoa",
+    "set_id": "zen",
+    "order": 46,
+    "scryfall_uri": "https://scryfall.com/card/zen/46/gomazoa",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/1/119d2661-ba22-4901-b89a-a0a8ec25d004.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Jellyfish",
+    "cost": [
+      "2",
+      "U"
+    ],
+    "usd_cents": 25
+  },
+  {
+    "id": "f0fa1946-4f97-4c52-b5f2-b80571230616",
+    "title": "Hedron Crab",
+    "set_id": "zen",
+    "order": 47,
+    "scryfall_uri": "https://scryfall.com/card/zen/47/hedron-crab",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/0/f0fa1946-4f97-4c52-b5f2-b80571230616.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Crab",
+    "cost": [
+      "U"
+    ],
+    "usd_cents": 449
+  },
+  {
+    "id": "5dba9972-dd8b-407b-9374-a8f0ed1a96db",
+    "title": "Into the Roil",
+    "set_id": "zen",
+    "order": 48,
+    "scryfall_uri": "https://scryfall.com/card/zen/48/into-the-roil",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/d/5dba9972-dd8b-407b-9374-a8f0ed1a96db.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "1",
+      "U"
+    ],
+    "usd_cents": 31
+  },
+  {
+    "id": "2acdba29-3a09-42d4-bce2-ce615c36bb3c",
+    "title": "Ior Ruin Expedition",
+    "set_id": "zen",
+    "order": 49,
+    "scryfall_uri": "https://scryfall.com/card/zen/49/ior-ruin-expedition",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/a/2acdba29-3a09-42d4-bce2-ce615c36bb3c.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment",
+    "cost": [
+      "1",
+      "U"
+    ],
+    "usd_cents": 15
+  },
+  {
+    "id": "45d100a3-93f2-428c-8f54-8807e71f2638",
+    "title": "Kraken Hatchling",
+    "set_id": "zen",
+    "order": 50,
+    "scryfall_uri": "https://scryfall.com/card/zen/50/kraken-hatchling",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/5/45d100a3-93f2-428c-8f54-8807e71f2638.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kraken",
+    "cost": [
+      "U"
+    ],
+    "usd_cents": 10
+  },
+  {
+    "id": "351aa3f2-864a-4921-a01c-8712560087bb",
+    "title": "Lethargy Trap",
+    "set_id": "zen",
+    "order": 51,
+    "scryfall_uri": "https://scryfall.com/card/zen/51/lethargy-trap",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/5/351aa3f2-864a-4921-a01c-8712560087bb.webp",
+    "rarity": "Common",
+    "card_type": "Instant \u2014 Trap",
+    "cost": [
+      "3",
+      "U"
+    ],
+    "usd_cents": 8
+  },
+  {
+    "id": "107a4e2b-e463-46f3-a431-66ea954ef487",
+    "title": "Living Tsunami",
+    "set_id": "zen",
+    "order": 52,
+    "scryfall_uri": "https://scryfall.com/card/zen/52/living-tsunami",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/0/107a4e2b-e463-46f3-a431-66ea954ef487.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental",
+    "cost": [
+      "2",
+      "U",
+      "U"
+    ],
+    "usd_cents": 15
+  },
+  {
+    "id": "60ddf68e-e78e-4709-9c7a-c6e8cbb1f56f",
+    "title": "Lorthos, the Tidemaker",
+    "set_id": "zen",
+    "order": 53,
+    "scryfall_uri": "https://scryfall.com/card/zen/53/lorthos-the-tidemaker",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/0/60ddf68e-e78e-4709-9c7a-c6e8cbb1f56f.webp",
+    "rarity": "Mythic Rare",
+    "card_type": "Legendary Creature \u2014 Octopus",
+    "cost": [
+      "5",
+      "U",
+      "U",
+      "U"
+    ],
+    "usd_cents": 56
+  },
+  {
+    "id": "e34de3df-3236-4281-a043-7583c76d89cc",
+    "title": "Lullmage Mentor",
+    "set_id": "zen",
+    "order": 54,
+    "scryfall_uri": "https://scryfall.com/card/zen/54/lullmage-mentor",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/3/e34de3df-3236-4281-a043-7583c76d89cc.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Merfolk Wizard",
+    "cost": [
+      "1",
+      "U",
+      "U"
+    ],
+    "usd_cents": 727
+  },
+  {
+    "id": "4fe5d069-45a0-46ea-b3ec-4e75f0531382",
+    "title": "Merfolk Seastalkers",
+    "set_id": "zen",
+    "order": 55,
+    "scryfall_uri": "https://scryfall.com/card/zen/55/merfolk-seastalkers",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/f/4fe5d069-45a0-46ea-b3ec-4e75f0531382.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Merfolk Scout",
+    "cost": [
+      "3",
+      "U"
+    ],
+    "usd_cents": 8
+  },
+  {
+    "id": "71ab86f3-aa75-40ce-a71e-90d40dad4bdc",
+    "title": "Merfolk Wayfinder",
+    "set_id": "zen",
+    "order": 56,
+    "scryfall_uri": "https://scryfall.com/card/zen/56/merfolk-wayfinder",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/1/71ab86f3-aa75-40ce-a71e-90d40dad4bdc.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Merfolk Scout",
+    "cost": [
+      "2",
+      "U"
+    ],
+    "usd_cents": 22
+  },
+  {
+    "id": "4f51140b-6254-431a-8810-94307bfdfbbe",
+    "title": "Mindbreak Trap",
+    "set_id": "zen",
+    "order": 57,
+    "scryfall_uri": "https://scryfall.com/card/zen/57/mindbreak-trap",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/f/4f51140b-6254-431a-8810-94307bfdfbbe.webp",
+    "rarity": "Mythic Rare",
+    "card_type": "Instant \u2014 Trap",
+    "cost": [
+      "2",
+      "U",
+      "U"
+    ],
+    "usd_cents": 1544
+  },
+  {
+    "id": "4af35801-9280-4ec1-9399-e34501919a8f",
+    "title": "Paralyzing Grasp",
+    "set_id": "zen",
+    "order": 58,
+    "scryfall_uri": "https://scryfall.com/card/zen/58/paralyzing-grasp",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/a/4af35801-9280-4ec1-9399-e34501919a8f.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment \u2014 Aura",
+    "cost": [
+      "2",
+      "U"
+    ],
+    "usd_cents": 8
+  },
+  {
+    "id": "0de22b67-968e-49e1-ae96-6dd0ee75cd54",
+    "title": "Quest for Ancient Secrets",
+    "set_id": "zen",
+    "order": 59,
+    "scryfall_uri": "https://scryfall.com/card/zen/59/quest-for-ancient-secrets",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/d/0de22b67-968e-49e1-ae96-6dd0ee75cd54.webp",
+    "rarity": "Uncommon",
+    "card_type": "Enchantment",
+    "cost": [
+      "U"
+    ],
+    "usd_cents": 19
+  },
+  {
+    "id": "b9b059c5-6812-42eb-a010-87fb9e0bb2b9",
+    "title": "Reckless Scholar",
+    "set_id": "zen",
+    "order": 60,
+    "scryfall_uri": "https://scryfall.com/card/zen/60/reckless-scholar",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/9/b9b059c5-6812-42eb-a010-87fb9e0bb2b9.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Wizard",
+    "cost": [
+      "2",
+      "U"
+    ],
+    "usd_cents": 18
+  },
+  {
+    "id": "4530fe45-8a3d-48e9-a7a5-abf8fb1485e3",
+    "title": "Rite of Replication",
+    "set_id": "zen",
+    "order": 61,
+    "scryfall_uri": "https://scryfall.com/card/zen/61/rite-of-replication",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/5/4530fe45-8a3d-48e9-a7a5-abf8fb1485e3.webp",
+    "rarity": "Rare",
+    "card_type": "Sorcery",
+    "cost": [
+      "2",
+      "U",
+      "U"
+    ],
+    "usd_cents": 81
+  },
+  {
+    "id": "66139c73-8e14-433d-bcb6-ae3e518bcdfb",
+    "title": "Roil Elemental",
+    "set_id": "zen",
+    "order": 62,
+    "scryfall_uri": "https://scryfall.com/card/zen/62/roil-elemental",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/6/66139c73-8e14-433d-bcb6-ae3e518bcdfb.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elemental",
+    "cost": [
+      "3",
+      "U",
+      "U",
+      "U"
+    ],
+    "usd_cents": 1618
+  },
+  {
+    "id": "5cd723c8-4b3d-4fbb-a825-79934279382d",
+    "title": "Sea Gate Loremaster",
+    "set_id": "zen",
+    "order": 63,
+    "scryfall_uri": "https://scryfall.com/card/zen/63/sea-gate-loremaster",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/c/5cd723c8-4b3d-4fbb-a825-79934279382d.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Merfolk Wizard Ally",
+    "cost": [
+      "4",
+      "U"
+    ],
+    "usd_cents": 525
+  },
+  {
+    "id": "3690efc8-de2b-4476-87da-d8ed9572dc84",
+    "title": "Seascape Aerialist",
+    "set_id": "zen",
+    "order": 64,
+    "scryfall_uri": "https://scryfall.com/card/zen/64/seascape-aerialist",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/6/3690efc8-de2b-4476-87da-d8ed9572dc84.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Merfolk Wizard Ally",
+    "cost": [
+      "4",
+      "U"
+    ],
+    "usd_cents": 32
+  },
+  {
+    "id": "a4a98047-8e6d-416c-b11d-cc4c2a56b624",
+    "title": "Shoal Serpent",
+    "set_id": "zen",
+    "order": 65,
+    "scryfall_uri": "https://scryfall.com/card/zen/65/shoal-serpent",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/4/a4a98047-8e6d-416c-b11d-cc4c2a56b624.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Serpent",
+    "cost": [
+      "5",
+      "U"
+    ],
+    "usd_cents": 8
+  },
+  {
+    "id": "2bdb5850-df1e-4d8a-af7a-15cab080fb8f",
+    "title": "Sky Ruin Drake",
+    "set_id": "zen",
+    "order": 66,
+    "scryfall_uri": "https://scryfall.com/card/zen/66/sky-ruin-drake",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/b/2bdb5850-df1e-4d8a-af7a-15cab080fb8f.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Drake",
+    "cost": [
+      "4",
+      "U"
+    ],
+    "usd_cents": 5
+  },
+  {
+    "id": "cb3d3901-e4a6-45ab-a7b5-c65d91e1875e",
+    "title": "Spell Pierce",
+    "set_id": "zen",
+    "order": 67,
+    "scryfall_uri": "https://scryfall.com/card/zen/67/spell-pierce",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/b/cb3d3901-e4a6-45ab-a7b5-c65d91e1875e.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "U"
+    ],
+    "usd_cents": 39
+  },
+  {
+    "id": "a0d13a9c-8757-46f4-be83-eb9917a5bbe3",
+    "title": "Sphinx of Jwar Isle",
+    "set_id": "zen",
+    "order": 68,
+    "scryfall_uri": "https://scryfall.com/card/zen/68/sphinx-of-jwar-isle",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/0/a0d13a9c-8757-46f4-be83-eb9917a5bbe3.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Sphinx",
+    "cost": [
+      "4",
+      "U",
+      "U"
+    ],
+    "usd_cents": 37
+  },
+  {
+    "id": "d97b61b6-bf80-4326-a646-a1985e0b50d7",
+    "title": "Sphinx of Lost Truths",
+    "set_id": "zen",
+    "order": 69,
+    "scryfall_uri": "https://scryfall.com/card/zen/69/sphinx-of-lost-truths",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/9/d97b61b6-bf80-4326-a646-a1985e0b50d7.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Sphinx",
+    "cost": [
+      "3",
+      "U",
+      "U"
+    ],
+    "usd_cents": 76
+  },
+  {
+    "id": "37454c1c-4098-4ac2-884e-3f65f1384bdb",
+    "title": "Spreading Seas",
+    "set_id": "zen",
+    "order": 70,
+    "scryfall_uri": "https://scryfall.com/card/zen/70/spreading-seas",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/7/37454c1c-4098-4ac2-884e-3f65f1384bdb.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment \u2014 Aura",
+    "cost": [
+      "1",
+      "U"
+    ],
+    "usd_cents": 25
+  },
+  {
+    "id": "ed82afba-df51-4bd9-853c-d3ef323095a6",
+    "title": "Summoner's Bane",
+    "set_id": "zen",
+    "order": 71,
+    "scryfall_uri": "https://scryfall.com/card/zen/71/summoners-bane",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/d/ed82afba-df51-4bd9-853c-d3ef323095a6.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant",
+    "cost": [
+      "2",
+      "U",
+      "U"
+    ],
+    "usd_cents": 8
+  },
+  {
+    "id": "d173dda8-de9f-4148-b5be-85d1a4c4faf6",
+    "title": "Tempest Owl",
+    "set_id": "zen",
+    "order": 72,
+    "scryfall_uri": "https://scryfall.com/card/zen/72/tempest-owl",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/1/d173dda8-de9f-4148-b5be-85d1a4c4faf6.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Bird",
+    "cost": [
+      "1",
+      "U"
+    ],
+    "usd_cents": 21
+  },
+  {
+    "id": "0c9dfda7-c034-478e-a52a-e4a272c7d160",
+    "title": "Trapfinder's Trick",
+    "set_id": "zen",
+    "order": 73,
+    "scryfall_uri": "https://scryfall.com/card/zen/73/trapfinders-trick",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/c/0c9dfda7-c034-478e-a52a-e4a272c7d160.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery",
+    "cost": [
+      "1",
+      "U"
+    ],
+    "usd_cents": 14
+  },
+  {
+    "id": "9cbc98ab-9f8a-41ed-b368-22f1f4ae594b",
+    "title": "Trapmaker's Snare",
+    "set_id": "zen",
+    "order": 74,
+    "scryfall_uri": "https://scryfall.com/card/zen/74/trapmakers-snare",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/c/9cbc98ab-9f8a-41ed-b368-22f1f4ae594b.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant",
+    "cost": [
+      "1",
+      "U"
+    ],
+    "usd_cents": 18
+  },
+  {
+    "id": "6049cc80-1faa-48bf-897e-fefe5a8e7ab2",
+    "title": "Umara Raptor",
+    "set_id": "zen",
+    "order": 75,
+    "scryfall_uri": "https://scryfall.com/card/zen/75/umara-raptor",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/0/6049cc80-1faa-48bf-897e-fefe5a8e7ab2.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Bird Ally",
+    "cost": [
+      "2",
+      "U"
+    ],
+    "usd_cents": 20
+  },
+  {
+    "id": "357931d0-8ba6-4857-9db9-7f42d81514a5",
+    "title": "Welkin Tern",
+    "set_id": "zen",
+    "order": 76,
+    "scryfall_uri": "https://scryfall.com/card/zen/76/welkin-tern",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/5/357931d0-8ba6-4857-9db9-7f42d81514a5.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Bird",
+    "cost": [
+      "1",
+      "U"
+    ],
+    "usd_cents": 18
+  },
+  {
+    "id": "0a80e6ae-13e0-46f7-baef-5fa7dfcedcec",
+    "title": "Whiplash Trap",
+    "set_id": "zen",
+    "order": 77,
+    "scryfall_uri": "https://scryfall.com/card/zen/77/whiplash-trap",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/a/0a80e6ae-13e0-46f7-baef-5fa7dfcedcec.webp",
+    "rarity": "Common",
+    "card_type": "Instant \u2014 Trap",
+    "cost": [
+      "3",
+      "U",
+      "U"
+    ],
+    "usd_cents": 22
+  },
+  {
+    "id": "c18b11f0-19cc-4169-84e0-fbb038a5c848",
+    "title": "Windrider Eel",
+    "set_id": "zen",
+    "order": 78,
+    "scryfall_uri": "https://scryfall.com/card/zen/78/windrider-eel",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/1/c18b11f0-19cc-4169-84e0-fbb038a5c848.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Fish",
+    "cost": [
+      "3",
+      "U"
+    ],
+    "usd_cents": 10
+  },
+  {
+    "id": "0b4598ec-cf36-4a51-9f67-b91c146c3c4f",
+    "title": "Bala Ged Thief",
+    "set_id": "zen",
+    "order": 79,
+    "scryfall_uri": "https://scryfall.com/card/zen/79/bala-ged-thief",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/b/0b4598ec-cf36-4a51-9f67-b91c146c3c4f.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Human Rogue Ally",
+    "cost": [
+      "3",
+      "B"
+    ],
+    "usd_cents": 51
+  },
+  {
+    "id": "d1abc9e8-9ecf-4665-9ea5-ee18ab83c148",
+    "title": "Blood Seeker",
+    "set_id": "zen",
+    "order": 80,
+    "scryfall_uri": "https://scryfall.com/card/zen/80/blood-seeker",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/1/d1abc9e8-9ecf-4665-9ea5-ee18ab83c148.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Vampire Shaman",
+    "cost": [
+      "1",
+      "B"
+    ],
+    "usd_cents": 34
+  },
+  {
+    "id": "c76487d3-1d52-4c31-917e-eb929907218d",
+    "title": "Blood Tribute",
+    "set_id": "zen",
+    "order": 81,
+    "scryfall_uri": "https://scryfall.com/card/zen/81/blood-tribute",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/7/c76487d3-1d52-4c31-917e-eb929907218d.webp",
+    "rarity": "Rare",
+    "card_type": "Sorcery",
+    "cost": [
+      "4",
+      "B",
+      "B"
+    ],
+    "usd_cents": 516
+  },
+  {
+    "id": "aa213dbb-c52a-4084-92aa-d0b5d97a97d9",
+    "title": "Bloodchief Ascension",
+    "set_id": "zen",
+    "order": 82,
+    "scryfall_uri": "https://scryfall.com/card/zen/82/bloodchief-ascension",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/a/aa213dbb-c52a-4084-92aa-d0b5d97a97d9.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment",
+    "cost": [
+      "B"
+    ],
+    "usd_cents": 2540
+  },
+  {
+    "id": "63870c81-63bf-4a9a-aeb5-74c6eaded9f1",
+    "title": "Bloodghast",
+    "set_id": "zen",
+    "order": 83,
+    "scryfall_uri": "https://scryfall.com/card/zen/83/bloodghast",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/3/63870c81-63bf-4a9a-aeb5-74c6eaded9f1.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Vampire Spirit",
+    "cost": [
+      "B",
+      "B"
+    ],
+    "usd_cents": 402
+  },
+  {
+    "id": "a0830c00-02fa-4fc8-907c-19d4b7f9cd6e",
+    "title": "Bog Tatters",
+    "set_id": "zen",
+    "order": 84,
+    "scryfall_uri": "https://scryfall.com/card/zen/84/bog-tatters",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/0/a0830c00-02fa-4fc8-907c-19d4b7f9cd6e.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Wraith",
+    "cost": [
+      "4",
+      "B"
+    ],
+    "usd_cents": 26
+  },
+  {
+    "id": "9920e91d-58c1-4c1a-a177-43423db96842",
+    "title": "Crypt Ripper",
+    "set_id": "zen",
+    "order": 85,
+    "scryfall_uri": "https://scryfall.com/card/zen/85/crypt-ripper",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/9/9920e91d-58c1-4c1a-a177-43423db96842.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Shade",
+    "cost": [
+      "2",
+      "B",
+      "B"
+    ],
+    "usd_cents": 13
+  },
+  {
+    "id": "3f05e478-8712-41de-94af-ecb90432e562",
+    "title": "Desecrated Earth",
+    "set_id": "zen",
+    "order": 86,
+    "scryfall_uri": "https://scryfall.com/card/zen/86/desecrated-earth",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/f/3f05e478-8712-41de-94af-ecb90432e562.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery",
+    "cost": [
+      "4",
+      "B"
+    ],
+    "usd_cents": 9
+  },
+  {
+    "id": "b3842ad2-a449-4963-8c96-276554125757",
+    "title": "Disfigure",
+    "set_id": "zen",
+    "order": 87,
+    "scryfall_uri": "https://scryfall.com/card/zen/87/disfigure",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/3/b3842ad2-a449-4963-8c96-276554125757.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "B"
+    ],
+    "usd_cents": 19
+  },
+  {
+    "id": "1a7dd5e2-b2a5-46ab-a67c-499451706505",
+    "title": "Feast of Blood",
+    "set_id": "zen",
+    "order": 88,
+    "scryfall_uri": "https://scryfall.com/card/zen/88/feast-of-blood",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/a/1a7dd5e2-b2a5-46ab-a67c-499451706505.webp",
+    "rarity": "Uncommon",
+    "card_type": "Sorcery",
+    "cost": [
+      "1",
+      "B"
+    ],
+    "usd_cents": 27
+  },
+  {
+    "id": "71db3698-a45c-4eaf-87e6-30502c0c10f4",
+    "title": "Gatekeeper of Malakir",
+    "set_id": "zen",
+    "order": 89,
+    "scryfall_uri": "https://scryfall.com/card/zen/89/gatekeeper-of-malakir",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/1/71db3698-a45c-4eaf-87e6-30502c0c10f4.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Vampire Warrior",
+    "cost": [
+      "B",
+      "B"
+    ],
+    "usd_cents": 29
+  },
+  {
+    "id": "c27221df-ec7a-4c51-b3a8-34b65b236b49",
+    "title": "Giant Scorpion",
+    "set_id": "zen",
+    "order": 90,
+    "scryfall_uri": "https://scryfall.com/card/zen/90/giant-scorpion",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/2/c27221df-ec7a-4c51-b3a8-34b65b236b49.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Scorpion",
+    "cost": [
+      "2",
+      "B"
+    ],
+    "usd_cents": 20
+  },
+  {
+    "id": "4eeec3f1-1f12-4237-95ec-54bbc9a901f9",
+    "title": "Grim Discovery",
+    "set_id": "zen",
+    "order": 91,
+    "scryfall_uri": "https://scryfall.com/card/zen/91/grim-discovery",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/e/4eeec3f1-1f12-4237-95ec-54bbc9a901f9.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery",
+    "cost": [
+      "1",
+      "B"
+    ],
+    "usd_cents": 19
+  },
+  {
+    "id": "6f6ee73e-fe6e-4698-b92e-606d5d10e5e0",
+    "title": "Guul Draz Specter",
+    "set_id": "zen",
+    "order": 92,
+    "scryfall_uri": "https://scryfall.com/card/zen/92/guul-draz-specter",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/f/6f6ee73e-fe6e-4698-b92e-606d5d10e5e0.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Specter",
+    "cost": [
+      "2",
+      "B",
+      "B"
+    ],
+    "usd_cents": 32
+  },
+  {
+    "id": "f3c92575-1c97-48bf-801b-22f34040cf9a",
+    "title": "Guul Draz Vampire",
+    "set_id": "zen",
+    "order": 93,
+    "scryfall_uri": "https://scryfall.com/card/zen/93/guul-draz-vampire",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/3/f3c92575-1c97-48bf-801b-22f34040cf9a.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Vampire Rogue",
+    "cost": [
+      "B"
+    ],
+    "usd_cents": 23
+  },
+  {
+    "id": "3394a7a2-8f1a-4f07-843a-77db62de49bd",
+    "title": "Hagra Crocodile",
+    "set_id": "zen",
+    "order": 94,
+    "scryfall_uri": "https://scryfall.com/card/zen/94/hagra-crocodile",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/3/3394a7a2-8f1a-4f07-843a-77db62de49bd.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Crocodile",
+    "cost": [
+      "3",
+      "B"
+    ],
+    "usd_cents": 11
+  },
+  {
+    "id": "c303e7e2-cb22-4dea-889f-d03e2494ed0f",
+    "title": "Hagra Diabolist",
+    "set_id": "zen",
+    "order": 95,
+    "scryfall_uri": "https://scryfall.com/card/zen/95/hagra-diabolist",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/3/c303e7e2-cb22-4dea-889f-d03e2494ed0f.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Ogre Shaman Ally",
+    "cost": [
+      "4",
+      "B"
+    ],
+    "usd_cents": 31
+  },
+  {
+    "id": "5f96344c-4b1f-42a6-bbf2-dc5cf11cdb02",
+    "title": "Halo Hunter",
+    "set_id": "zen",
+    "order": 96,
+    "scryfall_uri": "https://scryfall.com/card/zen/96/halo-hunter",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/f/5f96344c-4b1f-42a6-bbf2-dc5cf11cdb02.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Demon",
+    "cost": [
+      "2",
+      "B",
+      "B",
+      "B"
+    ],
+    "usd_cents": 31
+  },
+  {
+    "id": "1d20016d-2b5a-445e-a59b-5305e76f549c",
+    "title": "Heartstabber Mosquito",
+    "set_id": "zen",
+    "order": 97,
+    "scryfall_uri": "https://scryfall.com/card/zen/97/heartstabber-mosquito",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/d/1d20016d-2b5a-445e-a59b-5305e76f549c.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Insect",
+    "cost": [
+      "3",
+      "B"
+    ],
+    "usd_cents": 5
+  },
+  {
+    "id": "30a09ee1-99d9-432f-a4e2-a1377edef9d2",
+    "title": "Hideous End",
+    "set_id": "zen",
+    "order": 98,
+    "scryfall_uri": "https://scryfall.com/card/zen/98/hideous-end",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/0/30a09ee1-99d9-432f-a4e2-a1377edef9d2.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "1",
+      "B",
+      "B"
+    ],
+    "usd_cents": 24
+  },
+  {
+    "id": "859aab70-8192-414c-839b-dd0fbcbd8bf1",
+    "title": "Kalitas, Bloodchief of Ghet",
+    "set_id": "zen",
+    "order": 99,
+    "scryfall_uri": "https://scryfall.com/card/zen/99/kalitas-bloodchief-of-ghet",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/5/859aab70-8192-414c-839b-dd0fbcbd8bf1.webp",
+    "rarity": "Mythic Rare",
+    "card_type": "Legendary Creature \u2014 Vampire Warrior",
+    "cost": [
+      "5",
+      "B",
+      "B"
+    ],
+    "usd_cents": 570
+  },
+  {
+    "id": "865ac36f-4c61-468b-a2ed-ed2d1bbbf4e3",
+    "title": "Malakir Bloodwitch",
+    "set_id": "zen",
+    "order": 100,
+    "scryfall_uri": "https://scryfall.com/card/zen/100/malakir-bloodwitch",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/6/865ac36f-4c61-468b-a2ed-ed2d1bbbf4e3.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Vampire Shaman",
+    "cost": [
+      "3",
+      "B",
+      "B"
+    ],
+    "usd_cents": 432
+  },
+  {
+    "id": "28476d0d-60ea-4d08-890c-0e6502ee3d2a",
+    "title": "Marsh Casualties",
+    "set_id": "zen",
+    "order": 101,
+    "scryfall_uri": "https://scryfall.com/card/zen/101/marsh-casualties",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/8/28476d0d-60ea-4d08-890c-0e6502ee3d2a.webp",
+    "rarity": "Uncommon",
+    "card_type": "Sorcery",
+    "cost": [
+      "B",
+      "B"
+    ],
+    "usd_cents": 19
+  },
+  {
+    "id": "7aaedf6d-171b-4845-8815-debbe06b5b66",
+    "title": "Mind Sludge",
+    "set_id": "zen",
+    "order": 102,
+    "scryfall_uri": "https://scryfall.com/card/zen/102/mind-sludge",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/a/7aaedf6d-171b-4845-8815-debbe06b5b66.webp",
+    "rarity": "Uncommon",
+    "card_type": "Sorcery",
+    "cost": [
+      "4",
+      "B"
+    ],
+    "usd_cents": 18
+  },
+  {
+    "id": "b5d43b60-5bbc-4f9d-a96b-8d886b0c6dbd",
+    "title": "Mindless Null",
+    "set_id": "zen",
+    "order": 103,
+    "scryfall_uri": "https://scryfall.com/card/zen/103/mindless-null",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/5/b5d43b60-5bbc-4f9d-a96b-8d886b0c6dbd.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Zombie",
+    "cost": [
+      "2",
+      "B"
+    ],
+    "usd_cents": 6
+  },
+  {
+    "id": "1e63238d-a022-4ea1-a83d-0b2260d56a17",
+    "title": "Mire Blight",
+    "set_id": "zen",
+    "order": 104,
+    "scryfall_uri": "https://scryfall.com/card/zen/104/mire-blight",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/e/1e63238d-a022-4ea1-a83d-0b2260d56a17.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment \u2014 Aura",
+    "cost": [
+      "B"
+    ],
+    "usd_cents": 14
+  },
+  {
+    "id": "8dee4c4e-9505-43e5-88af-db5f9e56a749",
+    "title": "Needlebite Trap",
+    "set_id": "zen",
+    "order": 105,
+    "scryfall_uri": "https://scryfall.com/card/zen/105/needlebite-trap",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/d/8dee4c4e-9505-43e5-88af-db5f9e56a749.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant \u2014 Trap",
+    "cost": [
+      "5",
+      "B",
+      "B"
+    ],
+    "usd_cents": 23
+  },
+  {
+    "id": "8c504d12-a3ef-4588-a52d-734c20f6ac58",
+    "title": "Nimana Sell-Sword",
+    "set_id": "zen",
+    "order": 106,
+    "scryfall_uri": "https://scryfall.com/card/zen/106/nimana-sell-sword",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/c/8c504d12-a3ef-4588-a52d-734c20f6ac58.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Warrior Ally",
+    "cost": [
+      "3",
+      "B"
+    ],
+    "usd_cents": 6
+  },
+  {
+    "id": "7824a001-3f0e-4ac5-8406-e58f4288f2f2",
+    "title": "Ob Nixilis, the Fallen",
+    "set_id": "zen",
+    "order": 107,
+    "scryfall_uri": "https://scryfall.com/card/zen/107/ob-nixilis-the-fallen",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/8/7824a001-3f0e-4ac5-8406-e58f4288f2f2.webp",
+    "rarity": "Mythic Rare",
+    "card_type": "Legendary Creature \u2014 Demon",
+    "cost": [
+      "3",
+      "B",
+      "B"
+    ],
+    "usd_cents": 419
+  },
+  {
+    "id": "821b3d28-fe57-4d6a-a5d2-cc7cc44973d9",
+    "title": "Quest for the Gravelord",
+    "set_id": "zen",
+    "order": 108,
+    "scryfall_uri": "https://scryfall.com/card/zen/108/quest-for-the-gravelord",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/2/821b3d28-fe57-4d6a-a5d2-cc7cc44973d9.webp",
+    "rarity": "Uncommon",
+    "card_type": "Enchantment",
+    "cost": [
+      "B"
+    ],
+    "usd_cents": 21
+  },
+  {
+    "id": "f4540013-11f9-4a8b-ad54-61f467f04756",
+    "title": "Ravenous Trap",
+    "set_id": "zen",
+    "order": 109,
+    "scryfall_uri": "https://scryfall.com/card/zen/109/ravenous-trap",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/4/f4540013-11f9-4a8b-ad54-61f467f04756.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant \u2014 Trap",
+    "cost": [
+      "2",
+      "B",
+      "B"
+    ],
+    "usd_cents": 34
+  },
+  {
+    "id": "f3d82fd7-6af1-4a97-9d51-486a41224b35",
+    "title": "Sadistic Sacrament",
+    "set_id": "zen",
+    "order": 110,
+    "scryfall_uri": "https://scryfall.com/card/zen/110/sadistic-sacrament",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/3/f3d82fd7-6af1-4a97-9d51-486a41224b35.webp",
+    "rarity": "Rare",
+    "card_type": "Sorcery",
+    "cost": [
+      "B",
+      "B",
+      "B"
+    ],
+    "usd_cents": 91
+  },
+  {
+    "id": "29606aca-f23f-4dfe-b685-2065193109c8",
+    "title": "Sorin Markov",
+    "set_id": "zen",
+    "order": 111,
+    "scryfall_uri": "https://scryfall.com/card/zen/111/sorin-markov",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/9/29606aca-f23f-4dfe-b685-2065193109c8.webp",
+    "rarity": "Mythic Rare",
+    "card_type": "Legendary Planeswalker \u2014 Sorin",
+    "cost": [
+      "3",
+      "B",
+      "B",
+      "B"
+    ],
+    "usd_cents": 2062
+  },
+  {
+    "id": "902d03cd-2df7-4f87-ab99-fd52f0df6339",
+    "title": "Soul Stair Expedition",
+    "set_id": "zen",
+    "order": 112,
+    "scryfall_uri": "https://scryfall.com/card/zen/112/soul-stair-expedition",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/0/902d03cd-2df7-4f87-ab99-fd52f0df6339.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment",
+    "cost": [
+      "B"
+    ],
+    "usd_cents": 11
+  },
+  {
+    "id": "28a7a1af-14f2-4e22-bd27-9207e837d5fb",
+    "title": "Surrakar Marauder",
+    "set_id": "zen",
+    "order": 113,
+    "scryfall_uri": "https://scryfall.com/card/zen/113/surrakar-marauder",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/8/28a7a1af-14f2-4e22-bd27-9207e837d5fb.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Surrakar",
+    "cost": [
+      "1",
+      "B"
+    ],
+    "usd_cents": 9
+  },
+  {
+    "id": "93d2c4d1-6205-404a-b03d-995b90a3a33a",
+    "title": "Vampire Hexmage",
+    "set_id": "zen",
+    "order": 114,
+    "scryfall_uri": "https://scryfall.com/card/zen/114/vampire-hexmage",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/3/93d2c4d1-6205-404a-b03d-995b90a3a33a.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Vampire Shaman",
+    "cost": [
+      "B",
+      "B"
+    ],
+    "usd_cents": 36
+  },
+  {
+    "id": "114eca6c-76de-4b87-8174-78e2d17ad0e3",
+    "title": "Vampire Lacerator",
+    "set_id": "zen",
+    "order": 115,
+    "scryfall_uri": "https://scryfall.com/card/zen/115/vampire-lacerator",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/1/114eca6c-76de-4b87-8174-78e2d17ad0e3.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Vampire Warrior",
+    "cost": [
+      "B"
+    ],
+    "usd_cents": 18
+  },
+  {
+    "id": "44f19fe3-7a17-4c45-adfa-590f73dfebfa",
+    "title": "Vampire Nighthawk",
+    "set_id": "zen",
+    "order": 116,
+    "scryfall_uri": "https://scryfall.com/card/zen/116/vampire-nighthawk",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/4/44f19fe3-7a17-4c45-adfa-590f73dfebfa.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Vampire Shaman",
+    "cost": [
+      "1",
+      "B",
+      "B"
+    ],
+    "usd_cents": 32
+  },
+  {
+    "id": "6460a752-e5a7-4fd0-9ae5-e0773b86f19b",
+    "title": "Vampire's Bite",
+    "set_id": "zen",
+    "order": 117,
+    "scryfall_uri": "https://scryfall.com/card/zen/117/vampires-bite",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/4/6460a752-e5a7-4fd0-9ae5-e0773b86f19b.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "B"
+    ],
+    "usd_cents": 18
+  },
+  {
+    "id": "1558dfaf-15ed-4220-9051-bf0bf442b2e9",
+    "title": "Bladetusk Boar",
+    "set_id": "zen",
+    "order": 118,
+    "scryfall_uri": "https://scryfall.com/card/zen/118/bladetusk-boar",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/5/1558dfaf-15ed-4220-9051-bf0bf442b2e9.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Boar",
+    "cost": [
+      "3",
+      "R"
+    ],
+    "usd_cents": 10
+  },
+  {
+    "id": "2dc16614-5cf8-444d-a5ae-cac25018af68",
+    "title": "Burst Lightning",
+    "set_id": "zen",
+    "order": 119,
+    "scryfall_uri": "https://scryfall.com/card/zen/119/burst-lightning",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/d/2dc16614-5cf8-444d-a5ae-cac25018af68.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "R"
+    ],
+    "usd_cents": 17
+  },
+  {
+    "id": "43da8995-77da-4ec4-94a5-5e7932a3c969",
+    "title": "Chandra Ablaze",
+    "set_id": "zen",
+    "order": 120,
+    "scryfall_uri": "https://scryfall.com/card/zen/120/chandra-ablaze",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/3/43da8995-77da-4ec4-94a5-5e7932a3c969.webp",
+    "rarity": "Mythic Rare",
+    "card_type": "Legendary Planeswalker \u2014 Chandra",
+    "cost": [
+      "4",
+      "R",
+      "R"
+    ],
+    "usd_cents": 460
+  },
+  {
+    "id": "6c0df49a-b60b-4987-aa99-36791a30f453",
+    "title": "Demolish",
+    "set_id": "zen",
+    "order": 121,
+    "scryfall_uri": "https://scryfall.com/card/zen/121/demolish",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/c/6c0df49a-b60b-4987-aa99-36791a30f453.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery",
+    "cost": [
+      "3",
+      "R"
+    ],
+    "usd_cents": 19
+  },
+  {
+    "id": "9830b9e9-950c-4763-9396-8194d08bf8df",
+    "title": "Electropotence",
+    "set_id": "zen",
+    "order": 122,
+    "scryfall_uri": "https://scryfall.com/card/zen/122/electropotence",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/8/9830b9e9-950c-4763-9396-8194d08bf8df.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment",
+    "cost": [
+      "2",
+      "R"
+    ],
+    "usd_cents": 39
+  },
+  {
+    "id": "3a583f30-a3e0-4c4f-81b3-01452edaf22c",
+    "title": "Elemental Appeal",
+    "set_id": "zen",
+    "order": 123,
+    "scryfall_uri": "https://scryfall.com/card/zen/123/elemental-appeal",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/a/3a583f30-a3e0-4c4f-81b3-01452edaf22c.webp",
+    "rarity": "Rare",
+    "card_type": "Sorcery",
+    "cost": [
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "usd_cents": 34
+  },
+  {
+    "id": "b8aec169-4c62-4d53-a19c-68baa20c8e59",
+    "title": "Geyser Glider",
+    "set_id": "zen",
+    "order": 124,
+    "scryfall_uri": "https://scryfall.com/card/zen/124/geyser-glider",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/8/b8aec169-4c62-4d53-a19c-68baa20c8e59.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental Beast",
+    "cost": [
+      "3",
+      "R",
+      "R"
+    ],
+    "usd_cents": 12
+  },
+  {
+    "id": "4085a5bf-a71b-4c73-9b39-0dcc328fe11b",
+    "title": "Goblin Bushwhacker",
+    "set_id": "zen",
+    "order": 125,
+    "scryfall_uri": "https://scryfall.com/card/zen/125/goblin-bushwhacker",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/0/4085a5bf-a71b-4c73-9b39-0dcc328fe11b.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Warrior",
+    "cost": [
+      "R"
+    ],
+    "usd_cents": 183
+  },
+  {
+    "id": "b2e2a777-0705-4a37-937d-c6e020ebc0f0",
+    "title": "Goblin Guide",
+    "set_id": "zen",
+    "order": 126,
+    "scryfall_uri": "https://scryfall.com/card/zen/126/goblin-guide",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/2/b2e2a777-0705-4a37-937d-c6e020ebc0f0.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Goblin Scout",
+    "cost": [
+      "R"
+    ],
+    "usd_cents": 156
+  },
+  {
+    "id": "0d95d1f3-7ec1-4279-ade7-3f339f2f33da",
+    "title": "Goblin Ruinblaster",
+    "set_id": "zen",
+    "order": 127,
+    "scryfall_uri": "https://scryfall.com/card/zen/127/goblin-ruinblaster",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/d/0d95d1f3-7ec1-4279-ade7-3f339f2f33da.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Goblin Shaman",
+    "cost": [
+      "2",
+      "R"
+    ],
+    "usd_cents": 23
+  },
+  {
+    "id": "5daeaa2e-68e5-4f49-9220-58c0c9b1a3d0",
+    "title": "Goblin Shortcutter",
+    "set_id": "zen",
+    "order": 128,
+    "scryfall_uri": "https://scryfall.com/card/zen/128/goblin-shortcutter",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/d/5daeaa2e-68e5-4f49-9220-58c0c9b1a3d0.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Scout",
+    "cost": [
+      "1",
+      "R"
+    ],
+    "usd_cents": 22
+  },
+  {
+    "id": "4388e57e-0c87-4d66-a862-58261d76c5ac",
+    "title": "Goblin War Paint",
+    "set_id": "zen",
+    "order": 129,
+    "scryfall_uri": "https://scryfall.com/card/zen/129/goblin-war-paint",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/3/4388e57e-0c87-4d66-a862-58261d76c5ac.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment \u2014 Aura",
+    "cost": [
+      "1",
+      "R"
+    ],
+    "usd_cents": 19
+  },
+  {
+    "id": "8f975874-24a6-4a14-bc5c-898c3d8e90e5",
+    "title": "Hellfire Mongrel",
+    "set_id": "zen",
+    "order": 130,
+    "scryfall_uri": "https://scryfall.com/card/zen/130/hellfire-mongrel",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/f/8f975874-24a6-4a14-bc5c-898c3d8e90e5.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental Dog",
+    "cost": [
+      "2",
+      "R"
+    ],
+    "usd_cents": 18
+  },
+  {
+    "id": "e70c645d-d170-4a91-a6bb-0175ec900e93",
+    "title": "Hellkite Charger",
+    "set_id": "zen",
+    "order": 131,
+    "scryfall_uri": "https://scryfall.com/card/zen/131/hellkite-charger",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/7/e70c645d-d170-4a91-a6bb-0175ec900e93.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Dragon",
+    "cost": [
+      "4",
+      "R",
+      "R"
+    ],
+    "usd_cents": 385
+  },
+  {
+    "id": "e3c22bf3-2ba6-4d8f-a2b8-a5d5e26f1316",
+    "title": "Highland Berserker",
+    "set_id": "zen",
+    "order": 132,
+    "scryfall_uri": "https://scryfall.com/card/zen/132/highland-berserker",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/3/e3c22bf3-2ba6-4d8f-a2b8-a5d5e26f1316.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Berserker Ally",
+    "cost": [
+      "1",
+      "R"
+    ],
+    "usd_cents": 19
+  },
+  {
+    "id": "9a81ac38-c477-4797-ab91-cb7804cb727b",
+    "title": "Inferno Trap",
+    "set_id": "zen",
+    "order": 133,
+    "scryfall_uri": "https://scryfall.com/card/zen/133/inferno-trap",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/a/9a81ac38-c477-4797-ab91-cb7804cb727b.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant \u2014 Trap",
+    "cost": [
+      "3",
+      "R"
+    ],
+    "usd_cents": 7
+  },
+  {
+    "id": "da42df13-eded-48e2-ad1a-ff74d718ce3c",
+    "title": "Kazuul Warlord",
+    "set_id": "zen",
+    "order": 134,
+    "scryfall_uri": "https://scryfall.com/card/zen/134/kazuul-warlord",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/a/da42df13-eded-48e2-ad1a-ff74d718ce3c.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Minotaur Warrior Ally",
+    "cost": [
+      "4",
+      "R"
+    ],
+    "usd_cents": 89
+  },
+  {
+    "id": "c0d411e1-5488-4818-95a4-9f637efb9be6",
+    "title": "Lavaball Trap",
+    "set_id": "zen",
+    "order": 135,
+    "scryfall_uri": "https://scryfall.com/card/zen/135/lavaball-trap",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/0/c0d411e1-5488-4818-95a4-9f637efb9be6.webp",
+    "rarity": "Rare",
+    "card_type": "Instant \u2014 Trap",
+    "cost": [
+      "6",
+      "R",
+      "R"
+    ],
+    "usd_cents": 33
+  },
+  {
+    "id": "ee526306-6959-421c-9969-3c19b666d6da",
+    "title": "Magma Rift",
+    "set_id": "zen",
+    "order": 136,
+    "scryfall_uri": "https://scryfall.com/card/zen/136/magma-rift",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/e/ee526306-6959-421c-9969-3c19b666d6da.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery",
+    "cost": [
+      "2",
+      "R"
+    ],
+    "usd_cents": 8
+  },
+  {
+    "id": "58a0a019-239d-428e-85a2-e19cae8f4b58",
+    "title": "Mark of Mutiny",
+    "set_id": "zen",
+    "order": 137,
+    "scryfall_uri": "https://scryfall.com/card/zen/137/mark-of-mutiny",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/8/58a0a019-239d-428e-85a2-e19cae8f4b58.webp",
+    "rarity": "Uncommon",
+    "card_type": "Sorcery",
+    "cost": [
+      "2",
+      "R"
+    ],
+    "usd_cents": 30
+  },
+  {
+    "id": "9ebc7622-e7a7-419c-abb4-d9d339e6cdb0",
+    "title": "Molten Ravager",
+    "set_id": "zen",
+    "order": 138,
+    "scryfall_uri": "https://scryfall.com/card/zen/138/molten-ravager",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/e/9ebc7622-e7a7-419c-abb4-d9d339e6cdb0.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elemental",
+    "cost": [
+      "2",
+      "R"
+    ],
+    "usd_cents": 6
+  },
+  {
+    "id": "60daf59f-ffba-403b-8028-787ff33f2d6c",
+    "title": "Murasa Pyromancer",
+    "set_id": "zen",
+    "order": 139,
+    "scryfall_uri": "https://scryfall.com/card/zen/139/murasa-pyromancer",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/0/60daf59f-ffba-403b-8028-787ff33f2d6c.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Human Shaman Ally",
+    "cost": [
+      "4",
+      "R",
+      "R"
+    ],
+    "usd_cents": 21
+  },
+  {
+    "id": "1fbf7e23-5610-45d7-a273-923433d10934",
+    "title": "Obsidian Fireheart",
+    "set_id": "zen",
+    "order": 140,
+    "scryfall_uri": "https://scryfall.com/card/zen/140/obsidian-fireheart",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/f/1fbf7e23-5610-45d7-a273-923433d10934.webp",
+    "rarity": "Mythic Rare",
+    "card_type": "Creature \u2014 Elemental",
+    "cost": [
+      "1",
+      "R",
+      "R",
+      "R"
+    ],
+    "usd_cents": 79
+  },
+  {
+    "id": "fd8b5c0c-acda-411e-9f17-6d9292628a56",
+    "title": "Plated Geopede",
+    "set_id": "zen",
+    "order": 141,
+    "scryfall_uri": "https://scryfall.com/card/zen/141/plated-geopede",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/d/fd8b5c0c-acda-411e-9f17-6d9292628a56.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Insect",
+    "cost": [
+      "1",
+      "R"
+    ],
+    "usd_cents": 25
+  },
+  {
+    "id": "56e76f1c-5a07-455a-a3df-4c45b5b25b82",
+    "title": "Punishing Fire",
+    "set_id": "zen",
+    "order": 142,
+    "scryfall_uri": "https://scryfall.com/card/zen/142/punishing-fire",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/6/56e76f1c-5a07-455a-a3df-4c45b5b25b82.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant",
+    "cost": [
+      "1",
+      "R"
+    ],
+    "usd_cents": 34
+  },
+  {
+    "id": "288d624e-d72e-4a4b-bb74-5a8b0b2e3cb0",
+    "title": "Pyromancer Ascension",
+    "set_id": "zen",
+    "order": 143,
+    "scryfall_uri": "https://scryfall.com/card/zen/143/pyromancer-ascension",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/8/288d624e-d72e-4a4b-bb74-5a8b0b2e3cb0.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment",
+    "cost": [
+      "1",
+      "R"
+    ],
+    "usd_cents": 39
+  },
+  {
+    "id": "7b43ac5a-21b9-4abe-b8be-86b9056ad70d",
+    "title": "Quest for Pure Flame",
+    "set_id": "zen",
+    "order": 144,
+    "scryfall_uri": "https://scryfall.com/card/zen/144/quest-for-pure-flame",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/b/7b43ac5a-21b9-4abe-b8be-86b9056ad70d.webp",
+    "rarity": "Uncommon",
+    "card_type": "Enchantment",
+    "cost": [
+      "R"
+    ],
+    "usd_cents": 37
+  },
+  {
+    "id": "e800a3fe-bb1a-45f1-8c81-5ec88ff8647b",
+    "title": "Ruinous Minotaur",
+    "set_id": "zen",
+    "order": 145,
+    "scryfall_uri": "https://scryfall.com/card/zen/145/ruinous-minotaur",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/8/e800a3fe-bb1a-45f1-8c81-5ec88ff8647b.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Minotaur Warrior",
+    "cost": [
+      "1",
+      "R",
+      "R"
+    ],
+    "usd_cents": 7
+  },
+  {
+    "id": "e2ceff22-0270-4c9d-9ae2-f40a7047335b",
+    "title": "Runeflare Trap",
+    "set_id": "zen",
+    "order": 146,
+    "scryfall_uri": "https://scryfall.com/card/zen/146/runeflare-trap",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/2/e2ceff22-0270-4c9d-9ae2-f40a7047335b.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant \u2014 Trap",
+    "cost": [
+      "4",
+      "R",
+      "R"
+    ],
+    "usd_cents": 22
+  },
+  {
+    "id": "20365082-6102-4e3b-8791-c9b66846270d",
+    "title": "Seismic Shudder",
+    "set_id": "zen",
+    "order": 147,
+    "scryfall_uri": "https://scryfall.com/card/zen/147/seismic-shudder",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/0/20365082-6102-4e3b-8791-c9b66846270d.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "1",
+      "R"
+    ],
+    "usd_cents": 13
+  },
+  {
+    "id": "9cfbb4dd-56a2-4a94-9b15-b3ef8b2f1d0b",
+    "title": "Shatterskull Giant",
+    "set_id": "zen",
+    "order": 148,
+    "scryfall_uri": "https://scryfall.com/card/zen/148/shatterskull-giant",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/c/9cfbb4dd-56a2-4a94-9b15-b3ef8b2f1d0b.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Giant Warrior",
+    "cost": [
+      "2",
+      "R",
+      "R"
+    ],
+    "usd_cents": 12
+  },
+  {
+    "id": "c93b0eda-693e-4a17-be1d-1df162702146",
+    "title": "Slaughter Cry",
+    "set_id": "zen",
+    "order": 149,
+    "scryfall_uri": "https://scryfall.com/card/zen/149/slaughter-cry",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/9/c93b0eda-693e-4a17-be1d-1df162702146.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "2",
+      "R"
+    ],
+    "usd_cents": 15
+  },
+  {
+    "id": "f8c8fe2a-3203-4545-bb25-b1f107b13cca",
+    "title": "Spire Barrage",
+    "set_id": "zen",
+    "order": 150,
+    "scryfall_uri": "https://scryfall.com/card/zen/150/spire-barrage",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/8/f8c8fe2a-3203-4545-bb25-b1f107b13cca.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery",
+    "cost": [
+      "4",
+      "R"
+    ],
+    "usd_cents": 9
+  },
+  {
+    "id": "f4648820-9e87-4c67-8d97-cd7603f2e484",
+    "title": "Torch Slinger",
+    "set_id": "zen",
+    "order": 151,
+    "scryfall_uri": "https://scryfall.com/card/zen/151/torch-slinger",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/4/f4648820-9e87-4c67-8d97-cd7603f2e484.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Shaman",
+    "cost": [
+      "2",
+      "R"
+    ],
+    "usd_cents": 6
+  },
+  {
+    "id": "e6f37982-d2ae-4ff1-b5da-3936733f8108",
+    "title": "Tuktuk Grunts",
+    "set_id": "zen",
+    "order": 152,
+    "scryfall_uri": "https://scryfall.com/card/zen/152/tuktuk-grunts",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/6/e6f37982-d2ae-4ff1-b5da-3936733f8108.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Warrior Ally",
+    "cost": [
+      "4",
+      "R"
+    ],
+    "usd_cents": 7
+  },
+  {
+    "id": "d41c658e-68ec-4b55-bc5b-fd9fe8dbbdb3",
+    "title": "Unstable Footing",
+    "set_id": "zen",
+    "order": 153,
+    "scryfall_uri": "https://scryfall.com/card/zen/153/unstable-footing",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/4/d41c658e-68ec-4b55-bc5b-fd9fe8dbbdb3.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant",
+    "cost": [
+      "R"
+    ],
+    "usd_cents": 13
+  },
+  {
+    "id": "98637219-40d8-414c-939d-e2c90b909725",
+    "title": "Warren Instigator",
+    "set_id": "zen",
+    "order": 154,
+    "scryfall_uri": "https://scryfall.com/card/zen/154/warren-instigator",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/8/98637219-40d8-414c-939d-e2c90b909725.webp",
+    "rarity": "Mythic Rare",
+    "card_type": "Creature \u2014 Goblin Berserker",
+    "cost": [
+      "R",
+      "R"
+    ],
+    "usd_cents": 1271
+  },
+  {
+    "id": "f12d2c01-0ef2-40e6-8c7d-8512e2c8c074",
+    "title": "Zektar Shrine Expedition",
+    "set_id": "zen",
+    "order": 155,
+    "scryfall_uri": "https://scryfall.com/card/zen/155/zektar-shrine-expedition",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/1/f12d2c01-0ef2-40e6-8c7d-8512e2c8c074.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment",
+    "cost": [
+      "1",
+      "R"
+    ],
+    "usd_cents": 16
+  },
+  {
+    "id": "c00ac173-ea82-4364-812c-13173a700dd0",
+    "title": "Baloth Cage Trap",
+    "set_id": "zen",
+    "order": 156,
+    "scryfall_uri": "https://scryfall.com/card/zen/156/baloth-cage-trap",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/0/c00ac173-ea82-4364-812c-13173a700dd0.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant \u2014 Trap",
+    "cost": [
+      "3",
+      "G",
+      "G"
+    ],
+    "usd_cents": 22
+  },
+  {
+    "id": "8223dc6a-2bee-4be9-86d5-f0a17a24c33e",
+    "title": "Baloth Woodcrasher",
+    "set_id": "zen",
+    "order": 157,
+    "scryfall_uri": "https://scryfall.com/card/zen/157/baloth-woodcrasher",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/2/8223dc6a-2bee-4be9-86d5-f0a17a24c33e.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Beast",
+    "cost": [
+      "4",
+      "G",
+      "G"
+    ],
+    "usd_cents": 24
+  },
+  {
+    "id": "46465b5f-26fa-4a07-9dc9-55486edee31a",
+    "title": "Beast Hunt",
+    "set_id": "zen",
+    "order": 158,
+    "scryfall_uri": "https://scryfall.com/card/zen/158/beast-hunt",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/6/46465b5f-26fa-4a07-9dc9-55486edee31a.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery",
+    "cost": [
+      "3",
+      "G"
+    ],
+    "usd_cents": 9
+  },
+  {
+    "id": "02d7ea78-d539-4c34-8bb3-941353e3da46",
+    "title": "Beastmaster Ascension",
+    "set_id": "zen",
+    "order": 159,
+    "scryfall_uri": "https://scryfall.com/card/zen/159/beastmaster-ascension",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/2/02d7ea78-d539-4c34-8bb3-941353e3da46.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment",
+    "cost": [
+      "2",
+      "G"
+    ],
+    "usd_cents": 779
+  },
+  {
+    "id": "8a4e2966-c163-4e02-a315-4fe66e482884",
+    "title": "Cobra Trap",
+    "set_id": "zen",
+    "order": 160,
+    "scryfall_uri": "https://scryfall.com/card/zen/160/cobra-trap",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/a/8a4e2966-c163-4e02-a315-4fe66e482884.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant \u2014 Trap",
+    "cost": [
+      "4",
+      "G",
+      "G"
+    ],
+    "usd_cents": 23
+  },
+  {
+    "id": "b99a418a-2386-49b9-b48d-67a52448e65c",
+    "title": "Frontier Guide",
+    "set_id": "zen",
+    "order": 161,
+    "scryfall_uri": "https://scryfall.com/card/zen/161/frontier-guide",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/9/b99a418a-2386-49b9-b48d-67a52448e65c.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elf Scout",
+    "cost": [
+      "1",
+      "G"
+    ],
+    "usd_cents": 19
+  },
+  {
+    "id": "aa476306-9d6b-45ed-9e6c-fd4aee6592e7",
+    "title": "Gigantiform",
+    "set_id": "zen",
+    "order": 162,
+    "scryfall_uri": "https://scryfall.com/card/zen/162/gigantiform",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/a/aa476306-9d6b-45ed-9e6c-fd4aee6592e7.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment \u2014 Aura",
+    "cost": [
+      "3",
+      "G",
+      "G"
+    ],
+    "usd_cents": 36
+  },
+  {
+    "id": "078b5290-a613-496f-bd23-8fd109549f31",
+    "title": "Grazing Gladehart",
+    "set_id": "zen",
+    "order": 163,
+    "scryfall_uri": "https://scryfall.com/card/zen/163/grazing-gladehart",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/7/078b5290-a613-496f-bd23-8fd109549f31.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Antelope",
+    "cost": [
+      "2",
+      "G"
+    ],
+    "usd_cents": 15
+  },
+  {
+    "id": "747099f7-ce5b-4366-a8a4-f3d80100f66e",
+    "title": "Greenweaver Druid",
+    "set_id": "zen",
+    "order": 164,
+    "scryfall_uri": "https://scryfall.com/card/zen/164/greenweaver-druid",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/4/747099f7-ce5b-4366-a8a4-f3d80100f66e.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elf Druid",
+    "cost": [
+      "2",
+      "G"
+    ],
+    "usd_cents": 31
+  },
+  {
+    "id": "e309c1fc-3a7c-4624-8b48-9b152c2590ae",
+    "title": "Harrow",
+    "set_id": "zen",
+    "order": 165,
+    "scryfall_uri": "https://scryfall.com/card/zen/165/harrow",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/3/e309c1fc-3a7c-4624-8b48-9b152c2590ae.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "2",
+      "G"
+    ],
+    "usd_cents": 34
+  },
+  {
+    "id": "b53f5a5f-d851-4ceb-96e7-9ba216062072",
+    "title": "Joraga Bard",
+    "set_id": "zen",
+    "order": 166,
+    "scryfall_uri": "https://scryfall.com/card/zen/166/joraga-bard",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/5/b53f5a5f-d851-4ceb-96e7-9ba216062072.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elf Rogue Bard Ally",
+    "cost": [
+      "3",
+      "G"
+    ],
+    "usd_cents": 16
+  },
+  {
+    "id": "797d8cd6-fc6b-4560-9c6f-1a867dfce85a",
+    "title": "Khalni Heart Expedition",
+    "set_id": "zen",
+    "order": 167,
+    "scryfall_uri": "https://scryfall.com/card/zen/167/khalni-heart-expedition",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/9/797d8cd6-fc6b-4560-9c6f-1a867dfce85a.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment",
+    "cost": [
+      "1",
+      "G"
+    ],
+    "usd_cents": 29
+  },
+  {
+    "id": "19adde22-e5eb-4815-beb6-c520b3274cc9",
+    "title": "Lotus Cobra",
+    "set_id": "zen",
+    "order": 168,
+    "scryfall_uri": "https://scryfall.com/card/zen/168/lotus-cobra",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/9/19adde22-e5eb-4815-beb6-c520b3274cc9.webp",
+    "rarity": "Mythic Rare",
+    "card_type": "Creature \u2014 Snake",
+    "cost": [
+      "1",
+      "G"
+    ],
+    "usd_cents": 1017
+  },
+  {
+    "id": "903cb570-d769-4d7f-afbe-90ebad96657c",
+    "title": "Mold Shambler",
+    "set_id": "zen",
+    "order": 169,
+    "scryfall_uri": "https://scryfall.com/card/zen/169/mold-shambler",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/0/903cb570-d769-4d7f-afbe-90ebad96657c.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Fungus Beast",
+    "cost": [
+      "3",
+      "G"
+    ],
+    "usd_cents": 23
+  },
+  {
+    "id": "1b4c26ab-0f7b-4163-b9e4-a415b91352a6",
+    "title": "Nissa Revane",
+    "set_id": "zen",
+    "order": 170,
+    "scryfall_uri": "https://scryfall.com/card/zen/170/nissa-revane",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/b/1b4c26ab-0f7b-4163-b9e4-a415b91352a6.webp",
+    "rarity": "Mythic Rare",
+    "card_type": "Legendary Planeswalker \u2014 Nissa",
+    "cost": [
+      "2",
+      "G",
+      "G"
+    ],
+    "usd_cents": 830
+  },
+  {
+    "id": "a740584f-2ec2-46a9-9344-eac220759e85",
+    "title": "Nissa's Chosen",
+    "set_id": "zen",
+    "order": 171,
+    "scryfall_uri": "https://scryfall.com/card/zen/171/nissas-chosen",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/7/a740584f-2ec2-46a9-9344-eac220759e85.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elf Warrior",
+    "cost": [
+      "G",
+      "G"
+    ],
+    "usd_cents": 11
+  },
+  {
+    "id": "7f89a173-0b2f-4a6a-b706-9aed8dbcabec",
+    "title": "Oracle of Mul Daya",
+    "set_id": "zen",
+    "order": 172,
+    "scryfall_uri": "https://scryfall.com/card/zen/172/oracle-of-mul-daya",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/f/7f89a173-0b2f-4a6a-b706-9aed8dbcabec.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elf Shaman",
+    "cost": [
+      "3",
+      "G"
+    ],
+    "usd_cents": 511
+  },
+  {
+    "id": "37a69043-23f5-478e-bf9b-f170e326c0e0",
+    "title": "Oran-Rief Recluse",
+    "set_id": "zen",
+    "order": 173,
+    "scryfall_uri": "https://scryfall.com/card/zen/173/oran-rief-recluse",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/7/37a69043-23f5-478e-bf9b-f170e326c0e0.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Spider",
+    "cost": [
+      "2",
+      "G"
+    ],
+    "usd_cents": 21
+  },
+  {
+    "id": "0d598220-bddd-48a4-8c80-eb149c6292a3",
+    "title": "Oran-Rief Survivalist",
+    "set_id": "zen",
+    "order": 174,
+    "scryfall_uri": "https://scryfall.com/card/zen/174/oran-rief-survivalist",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/d/0d598220-bddd-48a4-8c80-eb149c6292a3.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Warrior Ally",
+    "cost": [
+      "1",
+      "G"
+    ],
+    "usd_cents": 32
+  },
+  {
+    "id": "d7f8adaa-2852-4e9c-b91d-ce80a21859c9",
+    "title": "Predatory Urge",
+    "set_id": "zen",
+    "order": 175,
+    "scryfall_uri": "https://scryfall.com/card/zen/175/predatory-urge",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/7/d7f8adaa-2852-4e9c-b91d-ce80a21859c9.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment \u2014 Aura",
+    "cost": [
+      "3",
+      "G"
+    ],
+    "usd_cents": 33
+  },
+  {
+    "id": "23b0c6a9-a7c0-4518-8580-653712062265",
+    "title": "Primal Bellow",
+    "set_id": "zen",
+    "order": 176,
+    "scryfall_uri": "https://scryfall.com/card/zen/176/primal-bellow",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/3/23b0c6a9-a7c0-4518-8580-653712062265.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant",
+    "cost": [
+      "G"
+    ],
+    "usd_cents": 38
+  },
+  {
+    "id": "ea12a160-9c05-4f66-bd80-035ea52f415b",
+    "title": "Quest for the Gemblades",
+    "set_id": "zen",
+    "order": 177,
+    "scryfall_uri": "https://scryfall.com/card/zen/177/quest-for-the-gemblades",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/a/ea12a160-9c05-4f66-bd80-035ea52f415b.webp",
+    "rarity": "Uncommon",
+    "card_type": "Enchantment",
+    "cost": [
+      "1",
+      "G"
+    ],
+    "usd_cents": 21
+  },
+  {
+    "id": "66ae703d-b133-4749-9d38-216abe6c6647",
+    "title": "Rampaging Baloths",
+    "set_id": "zen",
+    "order": 178,
+    "scryfall_uri": "https://scryfall.com/card/zen/178/rampaging-baloths",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/6/66ae703d-b133-4749-9d38-216abe6c6647.webp",
+    "rarity": "Mythic Rare",
+    "card_type": "Creature \u2014 Beast",
+    "cost": [
+      "4",
+      "G",
+      "G"
+    ],
+    "usd_cents": 117
+  },
+  {
+    "id": "01c924b2-3b10-4bb0-b51d-122bfdd298aa",
+    "title": "Relic Crush",
+    "set_id": "zen",
+    "order": 179,
+    "scryfall_uri": "https://scryfall.com/card/zen/179/relic-crush",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/1/01c924b2-3b10-4bb0-b51d-122bfdd298aa.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "4",
+      "G"
+    ],
+    "usd_cents": 15
+  },
+  {
+    "id": "4a81be06-b685-461b-80a8-2f23139106e7",
+    "title": "River Boa",
+    "set_id": "zen",
+    "order": 180,
+    "scryfall_uri": "https://scryfall.com/card/zen/180/river-boa",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/a/4a81be06-b685-461b-80a8-2f23139106e7.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Snake",
+    "cost": [
+      "1",
+      "G"
+    ],
+    "usd_cents": 22
+  },
+  {
+    "id": "8b8547e0-2928-4edc-a15a-a613cb4d1eac",
+    "title": "Savage Silhouette",
+    "set_id": "zen",
+    "order": 181,
+    "scryfall_uri": "https://scryfall.com/card/zen/181/savage-silhouette",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/b/8b8547e0-2928-4edc-a15a-a613cb4d1eac.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment \u2014 Aura",
+    "cost": [
+      "2",
+      "G"
+    ],
+    "usd_cents": 7
+  },
+  {
+    "id": "43e2fcc6-96d3-45f5-b4dd-e049d9ec6cec",
+    "title": "Scute Mob",
+    "set_id": "zen",
+    "order": 182,
+    "scryfall_uri": "https://scryfall.com/card/zen/182/scute-mob",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/3/43e2fcc6-96d3-45f5-b4dd-e049d9ec6cec.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Insect",
+    "cost": [
+      "G"
+    ],
+    "usd_cents": 84
+  },
+  {
+    "id": "9d289043-edb5-4a7e-801b-4881709edb32",
+    "title": "Scythe Tiger",
+    "set_id": "zen",
+    "order": 183,
+    "scryfall_uri": "https://scryfall.com/card/zen/183/scythe-tiger",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/d/9d289043-edb5-4a7e-801b-4881709edb32.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Cat",
+    "cost": [
+      "G"
+    ],
+    "usd_cents": 15
+  },
+  {
+    "id": "72ce4a96-9cb2-4032-9291-7fa0849aeab9",
+    "title": "Summoning Trap",
+    "set_id": "zen",
+    "order": 184,
+    "scryfall_uri": "https://scryfall.com/card/zen/184/summoning-trap",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/2/72ce4a96-9cb2-4032-9291-7fa0849aeab9.webp",
+    "rarity": "Rare",
+    "card_type": "Instant \u2014 Trap",
+    "cost": [
+      "4",
+      "G",
+      "G"
+    ],
+    "usd_cents": 38
+  },
+  {
+    "id": "ec46dbeb-f9b3-4e0f-a61f-52a91da6f087",
+    "title": "Tajuru Archer",
+    "set_id": "zen",
+    "order": 185,
+    "scryfall_uri": "https://scryfall.com/card/zen/185/tajuru-archer",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/c/ec46dbeb-f9b3-4e0f-a61f-52a91da6f087.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elf Archer Ally",
+    "cost": [
+      "2",
+      "G"
+    ],
+    "usd_cents": 28
+  },
+  {
+    "id": "a3c4e15b-7460-4d61-a209-6de27e4df6bb",
+    "title": "Tanglesap",
+    "set_id": "zen",
+    "order": 186,
+    "scryfall_uri": "https://scryfall.com/card/zen/186/tanglesap",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/3/a3c4e15b-7460-4d61-a209-6de27e4df6bb.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "1",
+      "G"
+    ],
+    "usd_cents": 10
+  },
+  {
+    "id": "4ab062f4-e4b1-4129-9027-d0ca1a723273",
+    "title": "Terra Stomper",
+    "set_id": "zen",
+    "order": 187,
+    "scryfall_uri": "https://scryfall.com/card/zen/187/terra-stomper",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/a/4ab062f4-e4b1-4129-9027-d0ca1a723273.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Beast",
+    "cost": [
+      "3",
+      "G",
+      "G",
+      "G"
+    ],
+    "usd_cents": 27
+  },
+  {
+    "id": "45033b8a-f3a8-4a23-b6b0-e011e3e7a4c1",
+    "title": "Territorial Baloth",
+    "set_id": "zen",
+    "order": 188,
+    "scryfall_uri": "https://scryfall.com/card/zen/188/territorial-baloth",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/5/45033b8a-f3a8-4a23-b6b0-e011e3e7a4c1.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Beast",
+    "cost": [
+      "4",
+      "G"
+    ],
+    "usd_cents": 15
+  },
+  {
+    "id": "d68fc3bc-eb3b-4504-93a3-8943d07b23f8",
+    "title": "Timbermaw Larva",
+    "set_id": "zen",
+    "order": 189,
+    "scryfall_uri": "https://scryfall.com/card/zen/189/timbermaw-larva",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/6/d68fc3bc-eb3b-4504-93a3-8943d07b23f8.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Beast",
+    "cost": [
+      "3",
+      "G"
+    ],
+    "usd_cents": 16
+  },
+  {
+    "id": "b774563a-d2d4-4bdf-ad82-dd9e1fa953ba",
+    "title": "Turntimber Basilisk",
+    "set_id": "zen",
+    "order": 190,
+    "scryfall_uri": "https://scryfall.com/card/zen/190/turntimber-basilisk",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/7/b774563a-d2d4-4bdf-ad82-dd9e1fa953ba.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Basilisk",
+    "cost": [
+      "1",
+      "G",
+      "G"
+    ],
+    "usd_cents": 31
+  },
+  {
+    "id": "a24bba56-3256-489b-82a2-22748388e110",
+    "title": "Turntimber Ranger",
+    "set_id": "zen",
+    "order": 191,
+    "scryfall_uri": "https://scryfall.com/card/zen/191/turntimber-ranger",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/2/a24bba56-3256-489b-82a2-22748388e110.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elf Scout Ranger Ally",
+    "cost": [
+      "3",
+      "G",
+      "G"
+    ],
+    "usd_cents": 145
+  },
+  {
+    "id": "bc5daf96-ceae-4c9a-95cd-f6d706e9b1fa",
+    "title": "Vastwood Gorger",
+    "set_id": "zen",
+    "order": 192,
+    "scryfall_uri": "https://scryfall.com/card/zen/192/vastwood-gorger",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/c/bc5daf96-ceae-4c9a-95cd-f6d706e9b1fa.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Wurm",
+    "cost": [
+      "5",
+      "G"
+    ],
+    "usd_cents": 10
+  },
+  {
+    "id": "e8bd8b10-de86-4bb6-b49f-6ccb5297c81c",
+    "title": "Vines of Vastwood",
+    "set_id": "zen",
+    "order": 193,
+    "scryfall_uri": "https://scryfall.com/card/zen/193/vines-of-vastwood",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/8/e8bd8b10-de86-4bb6-b49f-6ccb5297c81c.webp",
+    "rarity": "Common",
+    "card_type": "Instant",
+    "cost": [
+      "G"
+    ],
+    "usd_cents": 108
+  },
+  {
+    "id": "b3aeb7fb-8618-4595-84b4-20881b824b3e",
+    "title": "Zendikar Farguide",
+    "set_id": "zen",
+    "order": 194,
+    "scryfall_uri": "https://scryfall.com/card/zen/194/zendikar-farguide",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/3/b3aeb7fb-8618-4595-84b4-20881b824b3e.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elemental",
+    "cost": [
+      "4",
+      "G"
+    ],
+    "usd_cents": 8
+  },
+  {
+    "id": "3aa395f2-656e-4bf3-bd9b-6240bd3e2774",
+    "title": "Adventuring Gear",
+    "set_id": "zen",
+    "order": 195,
+    "scryfall_uri": "https://scryfall.com/card/zen/195/adventuring-gear",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/a/3aa395f2-656e-4bf3-bd9b-6240bd3e2774.webp",
+    "rarity": "Common",
+    "card_type": "Artifact \u2014 Equipment",
+    "cost": [
+      "1"
+    ],
+    "usd_cents": 27
+  },
+  {
+    "id": "7e4b42e5-0e60-4148-907e-456d9f3043be",
+    "title": "Blade of the Bloodchief",
+    "set_id": "zen",
+    "order": 196,
+    "scryfall_uri": "https://scryfall.com/card/zen/196/blade-of-the-bloodchief",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/e/7e4b42e5-0e60-4148-907e-456d9f3043be.webp",
+    "rarity": "Rare",
+    "card_type": "Artifact \u2014 Equipment",
+    "cost": [
+      "1"
+    ],
+    "usd_cents": 855
+  },
+  {
+    "id": "1e9d1ff2-9ce3-4737-af1d-9fc82e4dffe6",
+    "title": "Blazing Torch",
+    "set_id": "zen",
+    "order": 197,
+    "scryfall_uri": "https://scryfall.com/card/zen/197/blazing-torch",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/e/1e9d1ff2-9ce3-4737-af1d-9fc82e4dffe6.webp",
+    "rarity": "Uncommon",
+    "card_type": "Artifact \u2014 Equipment",
+    "cost": [
+      "1"
+    ],
+    "usd_cents": 9
+  },
+  {
+    "id": "52688a03-26a4-40ff-8a99-a268113a9802",
+    "title": "Carnage Altar",
+    "set_id": "zen",
+    "order": 198,
+    "scryfall_uri": "https://scryfall.com/card/zen/198/carnage-altar",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/2/52688a03-26a4-40ff-8a99-a268113a9802.webp",
+    "rarity": "Uncommon",
+    "card_type": "Artifact",
+    "cost": [
+      "2"
+    ],
+    "usd_cents": 21
+  },
+  {
+    "id": "aa9f4169-8c49-41f4-9e01-20de06ca4ad9",
+    "title": "Eldrazi Monument",
+    "set_id": "zen",
+    "order": 199,
+    "scryfall_uri": "https://scryfall.com/card/zen/199/eldrazi-monument",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/a/aa9f4169-8c49-41f4-9e01-20de06ca4ad9.webp",
+    "rarity": "Mythic Rare",
+    "card_type": "Artifact",
+    "cost": [
+      "5"
+    ],
+    "usd_cents": 1269
+  },
+  {
+    "id": "a9222e18-41b3-423f-8715-305a0d8fd410",
+    "title": "Eternity Vessel",
+    "set_id": "zen",
+    "order": 200,
+    "scryfall_uri": "https://scryfall.com/card/zen/200/eternity-vessel",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/9/a9222e18-41b3-423f-8715-305a0d8fd410.webp",
+    "rarity": "Mythic Rare",
+    "card_type": "Artifact",
+    "cost": [
+      "6"
+    ],
+    "usd_cents": 1651
+  },
+  {
+    "id": "c55bee97-593f-441f-b96c-a998d5212a55",
+    "title": "Expedition Map",
+    "set_id": "zen",
+    "order": 201,
+    "scryfall_uri": "https://scryfall.com/card/zen/201/expedition-map",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/5/c55bee97-593f-441f-b96c-a998d5212a55.webp",
+    "rarity": "Common",
+    "card_type": "Artifact",
+    "cost": [
+      "1"
+    ],
+    "usd_cents": 164
+  },
+  {
+    "id": "ea3a9cdb-4842-44b3-8143-0fda31692600",
+    "title": "Explorer's Scope",
+    "set_id": "zen",
+    "order": 202,
+    "scryfall_uri": "https://scryfall.com/card/zen/202/explorers-scope",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/a/ea3a9cdb-4842-44b3-8143-0fda31692600.webp",
+    "rarity": "Common",
+    "card_type": "Artifact \u2014 Equipment",
+    "cost": [
+      "1"
+    ],
+    "usd_cents": 29
+  },
+  {
+    "id": "54c29a90-639b-479d-b822-d5fb54b1d690",
+    "title": "Grappling Hook",
+    "set_id": "zen",
+    "order": 203,
+    "scryfall_uri": "https://scryfall.com/card/zen/203/grappling-hook",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/4/54c29a90-639b-479d-b822-d5fb54b1d690.webp",
+    "rarity": "Rare",
+    "card_type": "Artifact \u2014 Equipment",
+    "cost": [
+      "4"
+    ],
+    "usd_cents": 79
+  },
+  {
+    "id": "6422e062-0ce1-4239-8c2d-06449627a55a",
+    "title": "Hedron Scrabbler",
+    "set_id": "zen",
+    "order": 204,
+    "scryfall_uri": "https://scryfall.com/card/zen/204/hedron-scrabbler",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/4/6422e062-0ce1-4239-8c2d-06449627a55a.webp",
+    "rarity": "Common",
+    "card_type": "Artifact Creature \u2014 Construct",
+    "cost": [
+      "2"
+    ],
+    "usd_cents": 10
+  },
+  {
+    "id": "8b5f6b2b-8d98-4609-b991-a69523b5a07d",
+    "title": "Khalni Gem",
+    "set_id": "zen",
+    "order": 205,
+    "scryfall_uri": "https://scryfall.com/card/zen/205/khalni-gem",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/b/8b5f6b2b-8d98-4609-b991-a69523b5a07d.webp",
+    "rarity": "Uncommon",
+    "card_type": "Artifact",
+    "cost": [
+      "4"
+    ],
+    "usd_cents": 27
+  },
+  {
+    "id": "1f75f13e-43e6-4118-83a3-0446c2089d84",
+    "title": "Spidersilk Net",
+    "set_id": "zen",
+    "order": 206,
+    "scryfall_uri": "https://scryfall.com/card/zen/206/spidersilk-net",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/f/1f75f13e-43e6-4118-83a3-0446c2089d84.webp",
+    "rarity": "Common",
+    "card_type": "Artifact \u2014 Equipment",
+    "cost": [
+      "0"
+    ],
+    "usd_cents": 25
+  },
+  {
+    "id": "05460615-4c24-487f-841a-ca14106e5688",
+    "title": "Stonework Puma",
+    "set_id": "zen",
+    "order": 207,
+    "scryfall_uri": "https://scryfall.com/card/zen/207/stonework-puma",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/5/05460615-4c24-487f-841a-ca14106e5688.webp",
+    "rarity": "Common",
+    "card_type": "Artifact Creature \u2014 Cat Ally",
+    "cost": [
+      "3"
+    ],
+    "usd_cents": 12
+  },
+  {
+    "id": "afeb5a30-016a-465f-bdf0-e2df2d1bef8c",
+    "title": "Trailblazer's Boots",
+    "set_id": "zen",
+    "order": 208,
+    "scryfall_uri": "https://scryfall.com/card/zen/208/trailblazers-boots",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/f/afeb5a30-016a-465f-bdf0-e2df2d1bef8c.webp",
+    "rarity": "Uncommon",
+    "card_type": "Artifact \u2014 Equipment",
+    "cost": [
+      "2"
+    ],
+    "usd_cents": 198
+  },
+  {
+    "id": "86c9838e-aa72-49fc-bae2-f880bcbc9313",
+    "title": "Trusty Machete",
+    "set_id": "zen",
+    "order": 209,
+    "scryfall_uri": "https://scryfall.com/card/zen/209/trusty-machete",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/6/86c9838e-aa72-49fc-bae2-f880bcbc9313.webp",
+    "rarity": "Uncommon",
+    "card_type": "Artifact \u2014 Equipment",
+    "cost": [
+      "1"
+    ],
+    "usd_cents": 24
+  },
+  {
+    "id": "2ed95b4a-1452-4337-a4b2-e67e624d33df",
+    "title": "Akoum Refuge",
+    "set_id": "zen",
+    "order": 210,
+    "scryfall_uri": "https://scryfall.com/card/zen/210/akoum-refuge",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/e/2ed95b4a-1452-4337-a4b2-e67e624d33df.webp",
+    "rarity": "Uncommon",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 29
+  },
+  {
+    "id": "16c8d2fa-54a7-46e8-980c-905258497c90",
+    "title": "Arid Mesa",
+    "set_id": "zen",
+    "order": 211,
+    "scryfall_uri": "https://scryfall.com/card/zen/211/arid-mesa",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/6/16c8d2fa-54a7-46e8-980c-905258497c90.webp",
+    "rarity": "Rare",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 3197
+  },
+  {
+    "id": "672869d6-5314-422e-92f6-6a328fe0c6f6",
+    "title": "Crypt of Agadeem",
+    "set_id": "zen",
+    "order": 212,
+    "scryfall_uri": "https://scryfall.com/card/zen/212/crypt-of-agadeem",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/7/672869d6-5314-422e-92f6-6a328fe0c6f6.webp",
+    "rarity": "Rare",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 552
+  },
+  {
+    "id": "fdf6016e-71e7-4339-80f9-78e9aa44c54b",
+    "title": "Emeria, the Sky Ruin",
+    "set_id": "zen",
+    "order": 213,
+    "scryfall_uri": "https://scryfall.com/card/zen/213/emeria-the-sky-ruin",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/d/fdf6016e-71e7-4339-80f9-78e9aa44c54b.webp",
+    "rarity": "Rare",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 1187
+  },
+  {
+    "id": "c46324e3-52e7-4b21-a9a0-a3aae9f7dd5b",
+    "title": "Graypelt Refuge",
+    "set_id": "zen",
+    "order": 214,
+    "scryfall_uri": "https://scryfall.com/card/zen/214/graypelt-refuge",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/4/c46324e3-52e7-4b21-a9a0-a3aae9f7dd5b.webp",
+    "rarity": "Uncommon",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 28
+  },
+  {
+    "id": "ddd9463f-d029-459d-a933-432b7bbd7a41",
+    "title": "Jwar Isle Refuge",
+    "set_id": "zen",
+    "order": 215,
+    "scryfall_uri": "https://scryfall.com/card/zen/215/jwar-isle-refuge",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/d/ddd9463f-d029-459d-a933-432b7bbd7a41.webp",
+    "rarity": "Uncommon",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 31
+  },
+  {
+    "id": "a776decb-cdb5-4f41-8a3a-c0cece18eb35",
+    "title": "Kabira Crossroads",
+    "set_id": "zen",
+    "order": 216,
+    "scryfall_uri": "https://scryfall.com/card/zen/216/kabira-crossroads",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/7/a776decb-cdb5-4f41-8a3a-c0cece18eb35.webp",
+    "rarity": "Common",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 37
+  },
+  {
+    "id": "8af66f9c-c90b-45e0-a54c-a76e7e1b9dff",
+    "title": "Kazandu Refuge",
+    "set_id": "zen",
+    "order": 217,
+    "scryfall_uri": "https://scryfall.com/card/zen/217/kazandu-refuge",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/a/8af66f9c-c90b-45e0-a54c-a76e7e1b9dff.webp",
+    "rarity": "Uncommon",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 24
+  },
+  {
+    "id": "3c84cf70-4164-47ea-8da1-c0ca1ac132e1",
+    "title": "Magosi, the Waterveil",
+    "set_id": "zen",
+    "order": 218,
+    "scryfall_uri": "https://scryfall.com/card/zen/218/magosi-the-waterveil",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/c/3c84cf70-4164-47ea-8da1-c0ca1ac132e1.webp",
+    "rarity": "Rare",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 105
+  },
+  {
+    "id": "45026d57-0324-4312-8b86-2e7d4f581ee9",
+    "title": "Marsh Flats",
+    "set_id": "zen",
+    "order": 219,
+    "scryfall_uri": "https://scryfall.com/card/zen/219/marsh-flats",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/5/45026d57-0324-4312-8b86-2e7d4f581ee9.webp",
+    "rarity": "Rare",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 3298
+  },
+  {
+    "id": "24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787",
+    "title": "Misty Rainforest",
+    "set_id": "zen",
+    "order": 220,
+    "scryfall_uri": "https://scryfall.com/card/zen/220/misty-rainforest",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/4/24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787.webp",
+    "rarity": "Rare",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 3862
+  },
+  {
+    "id": "9bcc3bab-46f8-4ed2-abdb-7a117ad07d03",
+    "title": "Oran-Rief, the Vastwood",
+    "set_id": "zen",
+    "order": 221,
+    "scryfall_uri": "https://scryfall.com/card/zen/221/oran-rief-the-vastwood",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/b/9bcc3bab-46f8-4ed2-abdb-7a117ad07d03.webp",
+    "rarity": "Rare",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 107
+  },
+  {
+    "id": "ea077cff-b5c9-4a40-8e66-8810c37be5cb",
+    "title": "Piranha Marsh",
+    "set_id": "zen",
+    "order": 222,
+    "scryfall_uri": "https://scryfall.com/card/zen/222/piranha-marsh",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/a/ea077cff-b5c9-4a40-8e66-8810c37be5cb.webp",
+    "rarity": "Common",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 30
+  },
+  {
+    "id": "327cf118-cc92-4073-85d0-94d2a0a6989a",
+    "title": "Scalding Tarn",
+    "set_id": "zen",
+    "order": 223,
+    "scryfall_uri": "https://scryfall.com/card/zen/223/scalding-tarn",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/2/327cf118-cc92-4073-85d0-94d2a0a6989a.webp",
+    "rarity": "Rare",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 4431
+  },
+  {
+    "id": "1fd8cb0d-d651-44e7-ae14-4035b0f1aa77",
+    "title": "Sejiri Refuge",
+    "set_id": "zen",
+    "order": 224,
+    "scryfall_uri": "https://scryfall.com/card/zen/224/sejiri-refuge",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/f/1fd8cb0d-d651-44e7-ae14-4035b0f1aa77.webp",
+    "rarity": "Uncommon",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 38
+  },
+  {
+    "id": "6bf0de91-765a-49e3-bd8a-94f266b3bdd8",
+    "title": "Soaring Seacliff",
+    "set_id": "zen",
+    "order": 225,
+    "scryfall_uri": "https://scryfall.com/card/zen/225/soaring-seacliff",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/b/6bf0de91-765a-49e3-bd8a-94f266b3bdd8.webp",
+    "rarity": "Common",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 22
+  },
+  {
+    "id": "e56aca36-bb51-45e3-9ef9-9f9f2aa1e088",
+    "title": "Teetering Peaks",
+    "set_id": "zen",
+    "order": 226,
+    "scryfall_uri": "https://scryfall.com/card/zen/226/teetering-peaks",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/5/e56aca36-bb51-45e3-9ef9-9f9f2aa1e088.webp",
+    "rarity": "Common",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 22
+  },
+  {
+    "id": "fc92d6ef-a578-4320-b5c8-3da192eea1f3",
+    "title": "Turntimber Grove",
+    "set_id": "zen",
+    "order": 227,
+    "scryfall_uri": "https://scryfall.com/card/zen/227/turntimber-grove",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/c/fc92d6ef-a578-4320-b5c8-3da192eea1f3.webp",
+    "rarity": "Common",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 26
+  },
+  {
+    "id": "37bce60d-2cb0-4772-9f5c-122a7ed426a0",
+    "title": "Valakut, the Molten Pinnacle",
+    "set_id": "zen",
+    "order": 228,
+    "scryfall_uri": "https://scryfall.com/card/zen/228/valakut-the-molten-pinnacle",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/7/37bce60d-2cb0-4772-9f5c-122a7ed426a0.webp",
+    "rarity": "Rare",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 1774
+  },
+  {
+    "id": "7abd2723-2851-4f1a-b2d0-dfcb526472c3",
+    "title": "Verdant Catacombs",
+    "set_id": "zen",
+    "order": 229,
+    "scryfall_uri": "https://scryfall.com/card/zen/229/verdant-catacombs",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/a/7abd2723-2851-4f1a-b2d0-dfcb526472c3.webp",
+    "rarity": "Rare",
+    "card_type": "Land",
+    "cost": null,
+    "usd_cents": 3051
+  },
+  {
+    "id": "bc4f4b6d-ff35-4b1f-974b-f39569e6b3c7",
+    "title": "Plains",
+    "set_id": "zen",
+    "order": 230,
+    "scryfall_uri": "https://scryfall.com/card/zen/230/plains",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/c/bc4f4b6d-ff35-4b1f-974b-f39569e6b3c7.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Plains",
+    "cost": null,
+    "usd_cents": 30
+  },
+  {
+    "id": "6b362e9b-8d25-405e-b70e-f3c9533627a7",
+    "title": "Plains",
+    "set_id": "zen",
+    "order": 231,
+    "scryfall_uri": "https://scryfall.com/card/zen/231/plains",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/b/6b362e9b-8d25-405e-b70e-f3c9533627a7.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Plains",
+    "cost": null,
+    "usd_cents": 44
+  },
+  {
+    "id": "36446ad6-8bf0-4e4e-bbab-379c22dbf4f6",
+    "title": "Plains",
+    "set_id": "zen",
+    "order": 232,
+    "scryfall_uri": "https://scryfall.com/card/zen/232/plains",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/6/36446ad6-8bf0-4e4e-bbab-379c22dbf4f6.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Plains",
+    "cost": null,
+    "usd_cents": 38
+  },
+  {
+    "id": "e9646663-ba93-446b-ad83-71503924e7f8",
+    "title": "Plains",
+    "set_id": "zen",
+    "order": 233,
+    "scryfall_uri": "https://scryfall.com/card/zen/233/plains",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/9/e9646663-ba93-446b-ad83-71503924e7f8.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Plains",
+    "cost": null,
+    "usd_cents": 42
+  },
+  {
+    "id": "efd86f2a-bd28-4731-838d-78e67be8b49e",
+    "title": "Island",
+    "set_id": "zen",
+    "order": 234,
+    "scryfall_uri": "https://scryfall.com/card/zen/234/island",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/f/efd86f2a-bd28-4731-838d-78e67be8b49e.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Island",
+    "cost": null,
+    "usd_cents": 54
+  },
+  {
+    "id": "20b4cbcc-c394-4be3-8072-8893b48c866d",
+    "title": "Island",
+    "set_id": "zen",
+    "order": 235,
+    "scryfall_uri": "https://scryfall.com/card/zen/235/island",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/0/20b4cbcc-c394-4be3-8072-8893b48c866d.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Island",
+    "cost": null,
+    "usd_cents": 42
+  },
+  {
+    "id": "551f905b-4ce0-4071-a721-7e51be14d114",
+    "title": "Island",
+    "set_id": "zen",
+    "order": 236,
+    "scryfall_uri": "https://scryfall.com/card/zen/236/island",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/5/551f905b-4ce0-4071-a721-7e51be14d114.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Island",
+    "cost": null,
+    "usd_cents": 138
+  },
+  {
+    "id": "4dc3a90f-23c4-4c54-8825-32cb17977b48",
+    "title": "Island",
+    "set_id": "zen",
+    "order": 237,
+    "scryfall_uri": "https://scryfall.com/card/zen/237/island",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/d/4dc3a90f-23c4-4c54-8825-32cb17977b48.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Island",
+    "cost": null,
+    "usd_cents": 41
+  },
+  {
+    "id": "7cd6becc-f06a-4fd3-8305-70604b92a187",
+    "title": "Swamp",
+    "set_id": "zen",
+    "order": 238,
+    "scryfall_uri": "https://scryfall.com/card/zen/238/swamp",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/c/7cd6becc-f06a-4fd3-8305-70604b92a187.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Swamp",
+    "cost": null,
+    "usd_cents": 74
+  },
+  {
+    "id": "847cac15-b404-4e0f-964e-7aee41c93346",
+    "title": "Swamp",
+    "set_id": "zen",
+    "order": 239,
+    "scryfall_uri": "https://scryfall.com/card/zen/239/swamp",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/4/847cac15-b404-4e0f-964e-7aee41c93346.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Swamp",
+    "cost": null,
+    "usd_cents": 42
+  },
+  {
+    "id": "a095fed4-0a2a-4092-b923-8f46c8ea22d8",
+    "title": "Swamp",
+    "set_id": "zen",
+    "order": 240,
+    "scryfall_uri": "https://scryfall.com/card/zen/240/swamp",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/0/a095fed4-0a2a-4092-b923-8f46c8ea22d8.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Swamp",
+    "cost": null,
+    "usd_cents": 98
+  },
+  {
+    "id": "bc9e2d99-a3ad-4bfb-a781-a8a9454085c9",
+    "title": "Swamp",
+    "set_id": "zen",
+    "order": 241,
+    "scryfall_uri": "https://scryfall.com/card/zen/241/swamp",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/c/bc9e2d99-a3ad-4bfb-a781-a8a9454085c9.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Swamp",
+    "cost": null,
+    "usd_cents": 51
+  },
+  {
+    "id": "232ee129-0db1-4a03-9eda-4692a8495b53",
+    "title": "Mountain",
+    "set_id": "zen",
+    "order": 242,
+    "scryfall_uri": "https://scryfall.com/card/zen/242/mountain",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/3/232ee129-0db1-4a03-9eda-4692a8495b53.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Mountain",
+    "cost": null,
+    "usd_cents": 41
+  },
+  {
+    "id": "e3de70f1-6fb1-4191-b66f-491c794f9c05",
+    "title": "Mountain",
+    "set_id": "zen",
+    "order": 243,
+    "scryfall_uri": "https://scryfall.com/card/zen/243/mountain",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/3/e3de70f1-6fb1-4191-b66f-491c794f9c05.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Mountain",
+    "cost": null,
+    "usd_cents": 35
+  },
+  {
+    "id": "03bacab3-25fb-4a0c-81b3-7e9e22899c2c",
+    "title": "Mountain",
+    "set_id": "zen",
+    "order": 244,
+    "scryfall_uri": "https://scryfall.com/card/zen/244/mountain",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/3/03bacab3-25fb-4a0c-81b3-7e9e22899c2c.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Mountain",
+    "cost": null,
+    "usd_cents": 88
+  },
+  {
+    "id": "7a298c5d-9937-4df6-a544-7b3bcfe84885",
+    "title": "Mountain",
+    "set_id": "zen",
+    "order": 245,
+    "scryfall_uri": "https://scryfall.com/card/zen/245/mountain",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/a/7a298c5d-9937-4df6-a544-7b3bcfe84885.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Mountain",
+    "cost": null,
+    "usd_cents": 54
+  },
+  {
+    "id": "f0ca4b9f-4ee6-4ad8-a95f-326ada9de3cd",
+    "title": "Forest",
+    "set_id": "zen",
+    "order": 246,
+    "scryfall_uri": "https://scryfall.com/card/zen/246/forest",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/0/f0ca4b9f-4ee6-4ad8-a95f-326ada9de3cd.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Forest",
+    "cost": null,
+    "usd_cents": 89
+  },
+  {
+    "id": "6744c441-42b3-48b2-af06-1e27ec776d97",
+    "title": "Forest",
+    "set_id": "zen",
+    "order": 247,
+    "scryfall_uri": "https://scryfall.com/card/zen/247/forest",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/7/6744c441-42b3-48b2-af06-1e27ec776d97.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Forest",
+    "cost": null,
+    "usd_cents": 37
+  },
+  {
+    "id": "52c21f91-6679-4adb-baf2-b06cf505150c",
+    "title": "Forest",
+    "set_id": "zen",
+    "order": 248,
+    "scryfall_uri": "https://scryfall.com/card/zen/248/forest",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/2/52c21f91-6679-4adb-baf2-b06cf505150c.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Forest",
+    "cost": null,
+    "usd_cents": 143
+  },
+  {
+    "id": "341b05e6-93bb-4071-b8c6-1644f56e026d",
+    "title": "Forest",
+    "set_id": "zen",
+    "order": 249,
+    "scryfall_uri": "https://scryfall.com/card/zen/249/forest",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/4/341b05e6-93bb-4071-b8c6-1644f56e026d.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Forest",
+    "cost": null,
+    "usd_cents": 37
+  }
+]

@@ -24,7 +24,8 @@ def scrape_gallery(set_id: str) -> list[Card]:
 
         card_grid = header.next_sibling.next_sibling
 
-        assert card_grid.name == "div"
+        cgn : str = card_grid.name
+        assert cgn == "div"
         assert card_grid["class"] == ["card-grid"]
         assert card_grid.div["class"] == ["card-grid-inner"]
 
@@ -51,6 +52,28 @@ def scrape_gallery(set_id: str) -> list[Card]:
     return cards
 
 
+def get_price(card_soup: bs4.BeautifulSoup) -> int | None:
+    prints_tables = card_soup.find_all("table", {"class": "prints-table"})
+
+    prints_table = None
+    for table in prints_tables:
+        if table.thead.th.text.strip() == "Prints":
+            prints_table = table
+            break
+    if prints_table is None:
+        raise RuntimeError
+
+    usd_cell = prints_table.find("tr", {"class": "current"}).find("a", {"class": "currency-usd"})
+    if usd_cell is None:
+        return None
+
+    m = re.fullmatch("\\$([\\d,]+)\\.(\\d+)", usd_cell.text)
+    if m is None:
+        raise ValueError(f"Invalid price: {repr(usd_cell.text)}")
+
+    return int(m.group(1).replace(",", ""))*100 + int(m.group(2))
+
+
 def get_additional_metadata(cards: list[Card]) -> None:
     for card in tqdm.tqdm(cards):
         card_res = requests.get(card.scryfall_uri)
@@ -58,6 +81,7 @@ def get_additional_metadata(cards: list[Card]) -> None:
 
         card.card_type = card_soup.find("p", {"class": "card-text-type-line"}).text.strip()
         card.rarity = card_soup.find("span", {"class": "prints-current-set-details"}).text.split("·")[1].strip()
+        card.usd_cents = get_price(card_soup)
 
         if "Land" in card.card_type:
             card.cost = None

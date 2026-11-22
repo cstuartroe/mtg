@@ -157,6 +157,7 @@ class Card:
     cost: list[str] | None = None
     rarity: str = None
     card_type: str = None
+    usd_cents: int | None = None
 
     def to_json(self):
         return {
@@ -169,6 +170,7 @@ class Card:
             "rarity": self.rarity,
             "card_type": self.card_type,
             "cost": self.cost,
+            "usd_cents": self.usd_cents,
         }
 
     @functools.cached_property
